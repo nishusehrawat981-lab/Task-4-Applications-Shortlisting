@@ -1,0 +1,1001 @@
+application_id,candidate_id,company,role,location,source,applied_at,screening_passed,shortlisted,verified_shortlist,interviewed,offer_received,hired,current_stage
+APP00446,CAND00446,DataNova,Business Analyst,Mumbai,Campus,2026-07-01 00:00:00,True,True,False,False,False,False,Shortlisted
+APP00483,CAND00483,BrightWorks,Product Analyst,Delhi,Company Website,2026-07-01 01:00:00,True,False,False,False,False,False,Screened
+APP00963,CAND00963,InsightHub,Data Analyst,Gurugram,Job Portal,2026-07-01 02:00:00,False,False,False,False,False,False,Applied
+APP00133,CAND00133,DataNova,Business Analyst,Mumbai,Job Portal,2026-07-01 03:00:00,True,True,True,True,True,True,Hired
+APP00339,CAND00339,InsightHub,Product Analyst,Bengaluru,Company Website,2026-07-01 04:00:00,True,True,True,True,False,False,Interviewed
+APP00530,CAND00530,InsightHub,BI Analyst,Bengaluru,LinkedIn,2026-07-01 05:00:00,True,True,True,True,True,False,Offer
+APP00066,CAND00066,DataNova,BI Analyst,Pune,Referral,2026-07-01 06:00:00,True,True,True,True,True,True,Hired
+APP00678,CAND00678,BrightWorks,BI Analyst,Gurugram,Company Website,2026-07-01 07:00:00,True,False,False,False,False,False,Screened
+APP00092,CAND00092,DataNova,Product Analyst,Mumbai,LinkedIn,2026-07-01 08:00:00,True,False,False,False,False,False,Screened
+APP00343,CAND00343,NextGen Labs,Marketing Analyst,Hyderabad,Job Portal,2026-07-01 09:00:00,False,False,False,False,False,False,Applied
+APP00604,CAND00604,InsightHub,BI Analyst,Bengaluru,Job Portal,2026-07-01 10:00:00,False,False,False,False,False,False,Applied
+APP00062,CAND00062,InsightHub,Product Analyst,Hyderabad,Job Portal,2026-07-01 11:00:00,False,False,False,False,False,False,Applied
+APP00684,CAND00684,BrightWorks,Business Analyst,Hyderabad,Referral,2026-07-01 12:00:00,False,False,False,False,False,False,Applied
+APP00728,CAND00728,DataNova,Product Analyst,Hyderabad,LinkedIn,2026-07-01 13:00:00,False,False,False,False,False,False,Applied
+APP00152,CAND00152,InsightHub,Data Analyst,Bengaluru,Job Portal,2026-07-01 14:00:00,True,False,False,False,False,False,Screened
+APP00056,CAND00056,InsightHub,Business Analyst,Bengaluru,Campus,2026-07-01 15:00:00,False,False,False,False,False,False,Applied
+APP00558,CAND00558,NextGen Labs,Business Analyst,Delhi,Job Portal,2026-07-01 17:00:00,False,False,False,False,False,False,Applied
+APP00209,CAND00209,DataNova,BI Analyst,Pune,Job Portal,2026-07-01 19:00:00,True,True,True,True,False,False,Interviewed
+APP00068,CAND00068,DataNova,Marketing Analyst,Hyderabad,LinkedIn,2026-07-01 20:00:00,True,False,False,False,False,False,Screened
+APP00249,CAND00249,DataNova,BI Analyst,Delhi,Campus,2026-07-01 21:00:00,False,False,False,False,False,False,Applied
+APP00085,CAND00085,NextGen Labs,Data Analyst,Hyderabad,Company Website,2026-07-01 22:00:00,True,True,True,True,True,True,Hired
+APP00153,CAND00153,BrightWorks,Business Analyst,Pune,Job Portal,2026-07-01 23:00:00,True,False,False,False,False,False,Screened
+APP00212,CAND00212,DataNova,Business Analyst,Hyderabad,Referral,2026-07-02 01:00:00,True,True,True,True,True,True,Hired
+APP00795,CAND00795,BrightWorks,BI Analyst,Pune,Job Portal,2026-07-02 02:00:00,True,False,False,False,False,False,Screened
+APP00390,CAND00390,InsightHub,Marketing Analyst,Gurugram,LinkedIn,2026-07-02 03:00:00,True,True,False,True,False,False,Interviewed
+APP00677,CAND00677,InsightHub,Data Analyst,Gurugram,Job Portal,2026-07-02 04:00:00,False,False,False,False,False,False,Applied
+APP00276,CAND00276,NextGen Labs,Business Analyst,Delhi,Company Website,2026-07-02 05:00:00,True,True,True,True,False,False,Interviewed
+APP00606,CAND00606,DataNova,Product Analyst,Delhi,Company Website,2026-07-02 06:00:00,False,False,False,False,False,False,Applied
+APP00572,CAND00572,InsightHub,Data Analyst,Delhi,LinkedIn,2026-07-02 07:00:00,True,False,False,False,False,False,Screened
+APP00013,CAND00013,InsightHub,BI Analyst,Pune,LinkedIn,2026-07-02 08:00:00,True,False,False,False,False,False,Screened
+APP00019,CAND00019,NextGen Labs,Business Analyst,Mumbai,Company Website,2026-07-02 09:00:00,True,False,False,False,False,False,Screened
+APP00100,CAND00100,BrightWorks,BI Analyst,Pune,Job Portal,2026-07-02 10:00:00,True,True,True,True,True,False,Offer
+APP00616,CAND00616,BrightWorks,Product Analyst,Hyderabad,Campus,2026-07-02 11:00:00,False,False,False,False,False,False,Applied
+APP00285,CAND00285,InsightHub,BI Analyst,Bengaluru,Referral,2026-07-02 12:00:00,True,False,False,False,False,False,Screened
+APP00564,CAND00564,InsightHub,Data Analyst,Gurugram,Job Portal,2026-07-02 13:00:00,True,False,False,False,False,False,Screened
+APP00621,CAND00621,Alpha Tech,Data Analyst,Gurugram,Job Portal,2026-07-02 14:00:00,False,False,False,False,False,False,Applied
+APP00959,CAND00959,Alpha Tech,BI Analyst,Mumbai,Job Portal,2026-07-02 15:00:00,False,False,False,False,False,False,Applied
+APP00106,CAND00106,DataNova,Marketing Analyst,Hyderabad,Job Portal,2026-07-02 16:00:00,False,False,False,False,False,False,Applied
+APP00427,CAND00427,Alpha Tech,Marketing Analyst,Gurugram,Company Website,2026-07-02 17:00:00,True,True,True,False,False,False,Shortlisted
+APP00696,CAND00696,NextGen Labs,Business Analyst,Delhi,Referral,2026-07-02 18:00:00,True,True,True,False,False,False,Shortlisted
+APP00912,CAND00912,DataNova,Data Analyst,Hyderabad,Job Portal,2026-07-02 19:00:00,True,False,False,False,False,False,Screened
+APP00669,CAND00669,Alpha Tech,Product Analyst,Delhi,Job Portal,2026-07-02 20:00:00,True,False,False,False,False,False,Screened
+APP00038,CAND00038,Alpha Tech,Product Analyst,Gurugram,Job Portal,2026-07-02 21:00:00,True,False,False,False,False,False,Screened
+APP00211,CAND00211,Alpha Tech,Marketing Analyst,Hyderabad,Referral,2026-07-02 22:00:00,True,True,False,True,True,False,Offer
+APP00931,CAND00931,InsightHub,Marketing Analyst,Mumbai,Job Portal,2026-07-02 23:00:00,True,True,True,True,False,False,Interviewed
+APP00978,CAND00978,NextGen Labs,Marketing Analyst,Hyderabad,Job Portal,2026-07-03 00:00:00,True,True,False,False,False,False,Shortlisted
+APP00636,CAND00636,Alpha Tech,BI Analyst,Bengaluru,Company Website,2026-07-03 01:00:00,True,False,False,False,False,False,Screened
+APP00054,CAND00054,Alpha Tech,Product Analyst,Delhi,Campus,2026-07-03 02:00:00,False,False,False,False,False,False,Applied
+APP00262,CAND00262,InsightHub,Business Analyst,Delhi,Campus,2026-07-03 03:00:00,True,True,True,True,False,False,Interviewed
+APP00539,CAND00539,Alpha Tech,Marketing Analyst,Hyderabad,Company Website,2026-07-03 04:00:00,True,True,True,True,False,False,Interviewed
+APP00884,CAND00884,BrightWorks,Business Analyst,Delhi,Job Portal,2026-07-03 05:00:00,True,True,True,False,False,False,Shortlisted
+APP00465,CAND00465,Alpha Tech,Business Analyst,Delhi,Campus,2026-07-03 06:00:00,True,True,False,True,False,False,Interviewed
+APP00812,CAND00812,DataNova,Data Analyst,Delhi,LinkedIn,2026-07-03 07:00:00,True,False,False,False,False,False,Screened
+APP00998,CAND00998,BrightWorks,BI Analyst,Pune,Job Portal,2026-07-03 08:00:00,False,False,False,False,False,False,Applied
+APP00504,CAND00504,Alpha Tech,Data Analyst,Bengaluru,LinkedIn,2026-07-03 09:00:00,True,True,True,True,False,False,Interviewed
+APP00958,CAND00958,BrightWorks,BI Analyst,Mumbai,Job Portal,2026-07-03 10:00:00,True,False,False,False,False,False,Screened
+APP00622,CAND00622,DataNova,Data Analyst,Gurugram,Job Portal,2026-07-03 11:00:00,True,False,False,False,False,False,Screened
+APP00847,CAND00847,DataNova,Marketing Analyst,Bengaluru,Job Portal,2026-07-03 12:00:00,True,False,False,False,False,False,Screened
+APP00942,CAND00942,BrightWorks,Business Analyst,Delhi,Referral,2026-07-03 13:00:00,False,False,False,False,False,False,Applied
+APP00399,CAND00399,Alpha Tech,Marketing Analyst,Bengaluru,LinkedIn,2026-07-03 14:00:00,True,False,False,False,False,False,Screened
+APP00711,CAND00711,BrightWorks,Product Analyst,Gurugram,LinkedIn,2026-07-03 15:00:00,True,False,False,False,False,False,Screened
+APP00588,CAND00588,Alpha Tech,Data Analyst,Gurugram,Job Portal,2026-07-03 16:00:00,True,False,False,False,False,False,Screened
+APP00319,CAND00319,InsightHub,Business Analyst,Bengaluru,Job Portal,2026-07-03 17:00:00,True,True,True,True,False,False,Interviewed
+APP00348,CAND00348,Alpha Tech,Data Analyst,Bengaluru,Job Portal,2026-07-03 18:00:00,False,False,False,False,False,False,Applied
+APP00755,CAND00755,Alpha Tech,Product Analyst,Delhi,Job Portal,2026-07-03 19:00:00,False,False,False,False,False,False,Applied
+APP00081,CAND00081,NextGen Labs,Marketing Analyst,Bengaluru,LinkedIn,2026-07-03 20:00:00,True,True,True,False,False,False,Shortlisted
+APP00823,CAND00823,Alpha Tech,Marketing Analyst,Delhi,Company Website,2026-07-03 21:00:00,True,False,False,False,False,False,Screened
+APP00546,CAND00546,NextGen Labs,Business Analyst,Hyderabad,Company Website,2026-07-03 23:00:00,True,True,True,True,False,False,Interviewed
+APP00661,CAND00661,NextGen Labs,BI Analyst,Gurugram,Company Website,2026-07-04 00:00:00,True,True,True,True,False,False,Interviewed
+APP00748,CAND00748,DataNova,Product Analyst,Gurugram,Referral,2026-07-04 01:00:00,True,False,False,False,False,False,Screened
+APP00720,CAND00720,InsightHub,Business Analyst,Gurugram,LinkedIn,2026-07-04 02:00:00,True,True,True,False,False,False,Shortlisted
+APP00527,CAND00527,BrightWorks,BI Analyst,Delhi,Company Website,2026-07-04 03:00:00,False,False,False,False,False,False,Applied
+APP00804,CAND00804,DataNova,Marketing Analyst,Hyderabad,Referral,2026-07-04 04:00:00,False,False,False,False,False,False,Applied
+APP00234,CAND00234,NextGen Labs,Marketing Analyst,Hyderabad,Company Website,2026-07-04 05:00:00,True,True,True,True,False,False,Interviewed
+APP00251,CAND00251,NextGen Labs,Marketing Analyst,Gurugram,Job Portal,2026-07-04 06:00:00,True,False,False,False,False,False,Screened
+APP00026,CAND00026,NextGen Labs,Business Analyst,Hyderabad,LinkedIn,2026-07-04 07:00:00,True,True,True,False,False,False,Shortlisted
+APP00235,CAND00235,NextGen Labs,Marketing Analyst,Gurugram,Job Portal,2026-07-04 08:00:00,True,True,True,False,False,False,Shortlisted
+APP00976,CAND00976,Alpha Tech,Data Analyst,Mumbai,Job Portal,2026-07-04 09:00:00,True,True,True,False,False,False,Shortlisted
+APP00369,CAND00369,NextGen Labs,Business Analyst,Pune,Job Portal,2026-07-04 10:00:00,True,True,True,False,False,False,Shortlisted
+APP00632,CAND00632,Alpha Tech,BI Analyst,Mumbai,Campus,2026-07-04 11:00:00,False,False,False,False,False,False,Applied
+APP00018,CAND00018,InsightHub,BI Analyst,Mumbai,Referral,2026-07-04 12:00:00,True,True,True,True,False,False,Interviewed
+APP00614,CAND00614,NextGen Labs,Business Analyst,Gurugram,Job Portal,2026-07-04 13:00:00,True,True,False,True,True,True,Hired
+APP00325,CAND00325,InsightHub,Marketing Analyst,Gurugram,Campus,2026-07-04 14:00:00,False,False,False,False,False,False,Applied
+APP00664,CAND00664,InsightHub,Business Analyst,Mumbai,Job Portal,2026-07-04 15:00:00,False,False,False,False,False,False,Applied
+APP00580,CAND00580,InsightHub,BI Analyst,Delhi,Job Portal,2026-07-04 16:00:00,False,False,False,False,False,False,Applied
+APP00686,CAND00686,BrightWorks,Data Analyst,Mumbai,Referral,2026-07-04 17:00:00,True,True,True,True,False,False,Interviewed
+APP00791,CAND00791,InsightHub,Marketing Analyst,Pune,Job Portal,2026-07-04 18:00:00,False,False,False,False,False,False,Applied
+APP00908,CAND00908,NextGen Labs,Business Analyst,Bengaluru,Company Website,2026-07-04 19:00:00,False,False,False,False,False,False,Applied
+APP00685,CAND00685,Alpha Tech,BI Analyst,Mumbai,Campus,2026-07-04 21:00:00,True,False,False,False,False,False,Screened
+APP00069,CAND00069,DataNova,Data Analyst,Bengaluru,Job Portal,2026-07-04 22:00:00,False,False,False,False,False,False,Applied
+APP00947,CAND00947,NextGen Labs,Business Analyst,Pune,Job Portal,2026-07-04 23:00:00,False,False,False,False,False,False,Applied
+APP00358,CAND00358,NextGen Labs,Business Analyst,Bengaluru,Referral,2026-07-05 00:00:00,True,False,False,False,False,False,Screened
+APP00641,CAND00641,DataNova,BI Analyst,Pune,Job Portal,2026-07-05 01:00:00,True,False,False,False,False,False,Screened
+APP00247,CAND00247,InsightHub,Business Analyst,Gurugram,Company Website,2026-07-05 02:00:00,True,False,False,False,False,False,Screened
+APP00187,CAND00187,BrightWorks,Data Analyst,Bengaluru,LinkedIn,2026-07-05 03:00:00,True,True,True,True,False,False,Interviewed
+APP00615,CAND00615,BrightWorks,BI Analyst,Gurugram,LinkedIn,2026-07-05 04:00:00,True,False,False,False,False,False,Screened
+APP00411,CAND00411,DataNova,Product Analyst,Hyderabad,Company Website,2026-07-05 05:00:00,True,True,True,True,False,False,Interviewed
+APP00423,CAND00423,NextGen Labs,Product Analyst,Gurugram,Job Portal,2026-07-05 06:00:00,False,False,False,False,False,False,Applied
+APP00805,CAND00805,InsightHub,Product Analyst,Mumbai,Company Website,2026-07-05 07:00:00,True,True,True,False,False,False,Shortlisted
+APP00373,CAND00373,InsightHub,Marketing Analyst,Delhi,Job Portal,2026-07-05 08:00:00,True,False,False,False,False,False,Screened
+APP00584,CAND00584,InsightHub,Marketing Analyst,Mumbai,Company Website,2026-07-05 09:00:00,True,True,False,False,False,False,Shortlisted
+APP00429,CAND00429,NextGen Labs,BI Analyst,Hyderabad,Company Website,2026-07-05 10:00:00,False,False,False,False,False,False,Applied
+APP00274,CAND00274,InsightHub,Product Analyst,Pune,Campus,2026-07-05 11:00:00,True,True,True,True,False,False,Interviewed
+APP00500,CAND00500,DataNova,Marketing Analyst,Pune,Campus,2026-07-05 12:00:00,True,True,True,True,False,False,Interviewed
+APP00626,CAND00626,Alpha Tech,Product Analyst,Delhi,Company Website,2026-07-05 13:00:00,True,True,True,False,False,False,Shortlisted
+APP00493,CAND00493,NextGen Labs,Business Analyst,Mumbai,Job Portal,2026-07-05 14:00:00,False,False,False,False,False,False,Applied
+APP00699,CAND00699,DataNova,BI Analyst,Delhi,Job Portal,2026-07-05 15:00:00,False,False,False,False,False,False,Applied
+APP00732,CAND00732,NextGen Labs,BI Analyst,Mumbai,LinkedIn,2026-07-05 16:00:00,False,False,False,False,False,False,Applied
+APP00770,CAND00770,Alpha Tech,BI Analyst,Delhi,LinkedIn,2026-07-05 17:00:00,True,False,False,False,False,False,Screened
+APP00980,CAND00980,Alpha Tech,Business Analyst,Hyderabad,Referral,2026-07-05 19:00:00,False,False,False,False,False,False,Applied
+APP00141,CAND00141,DataNova,Marketing Analyst,Delhi,Campus,2026-07-05 20:00:00,True,True,True,True,True,True,Hired
+APP00388,CAND00388,NextGen Labs,Product Analyst,Mumbai,Job Portal,2026-07-05 22:00:00,True,True,True,True,False,False,Interviewed
+APP00817,CAND00817,DataNova,Data Analyst,Pune,Referral,2026-07-05 23:00:00,False,False,False,False,False,False,Applied
+APP00084,CAND00084,InsightHub,Data Analyst,Gurugram,Job Portal,2026-07-06 00:00:00,True,True,True,True,False,False,Interviewed
+APP00950,CAND00950,DataNova,BI Analyst,Mumbai,Referral,2026-07-06 01:00:00,True,True,True,False,False,False,Shortlisted
+APP00086,CAND00086,Alpha Tech,BI Analyst,Pune,Company Website,2026-07-06 02:00:00,True,False,False,False,False,False,Screened
+APP00936,CAND00936,Alpha Tech,Product Analyst,Gurugram,Job Portal,2026-07-06 03:00:00,False,False,False,False,False,False,Applied
+APP00759,CAND00759,Alpha Tech,BI Analyst,Mumbai,Campus,2026-07-06 04:00:00,False,False,False,False,False,False,Applied
+APP00138,CAND00138,NextGen Labs,BI Analyst,Pune,LinkedIn,2026-07-06 05:00:00,True,False,False,False,False,False,Screened
+APP00521,CAND00521,DataNova,Business Analyst,Gurugram,Referral,2026-07-06 06:00:00,True,True,True,True,False,False,Interviewed
+APP00595,CAND00595,Alpha Tech,Data Analyst,Hyderabad,Campus,2026-07-06 07:00:00,True,True,True,True,False,False,Interviewed
+APP00846,CAND00846,InsightHub,Business Analyst,Bengaluru,Company Website,2026-07-06 08:00:00,False,False,False,False,False,False,Applied
+APP00103,CAND00103,InsightHub,Marketing Analyst,Gurugram,Company Website,2026-07-06 09:00:00,True,True,True,False,False,False,Shortlisted
+APP00119,CAND00119,NextGen Labs,Product Analyst,Pune,Campus,2026-07-06 10:00:00,True,True,True,False,False,False,Shortlisted
+APP00547,CAND00547,DataNova,BI Analyst,Gurugram,Job Portal,2026-07-06 11:00:00,True,True,True,True,True,True,Hired
+APP00110,CAND00110,BrightWorks,BI Analyst,Mumbai,Job Portal,2026-07-06 12:00:00,True,False,False,False,False,False,Screened
+APP00208,CAND00208,Alpha Tech,Product Analyst,Mumbai,Referral,2026-07-06 13:00:00,True,False,False,False,False,False,Screened
+APP00199,CAND00199,BrightWorks,Marketing Analyst,Hyderabad,Campus,2026-07-06 14:00:00,True,True,True,True,False,False,Interviewed
+APP00929,CAND00929,NextGen Labs,Marketing Analyst,Mumbai,Referral,2026-07-06 15:00:00,False,False,False,False,False,False,Applied
+APP00758,CAND00758,BrightWorks,Business Analyst,Delhi,Referral,2026-07-06 17:00:00,True,True,True,False,False,False,Shortlisted
+APP00437,CAND00437,InsightHub,Marketing Analyst,Delhi,Job Portal,2026-07-06 19:00:00,False,False,False,False,False,False,Applied
+APP00352,CAND00352,NextGen Labs,Marketing Analyst,Bengaluru,LinkedIn,2026-07-06 21:00:00,True,True,True,True,False,False,Interviewed
+APP00461,CAND00461,BrightWorks,Data Analyst,Delhi,Job Portal,2026-07-06 22:00:00,True,True,True,False,False,False,Shortlisted
+APP00671,CAND00671,NextGen Labs,Marketing Analyst,Mumbai,Job Portal,2026-07-06 23:00:00,False,False,False,False,False,False,Applied
+APP00589,CAND00589,NextGen Labs,Data Analyst,Pune,Job Portal,2026-07-07 00:00:00,False,False,False,False,False,False,Applied
+APP00204,CAND00204,NextGen Labs,Data Analyst,Delhi,Campus,2026-07-07 01:00:00,True,False,False,False,False,False,Screened
+APP00188,CAND00188,DataNova,Product Analyst,Gurugram,Referral,2026-07-07 03:00:00,True,False,False,False,False,False,Screened
+APP00467,CAND00467,Alpha Tech,Business Analyst,Bengaluru,Job Portal,2026-07-07 04:00:00,True,False,False,False,False,False,Screened
+APP00680,CAND00680,DataNova,Business Analyst,Pune,LinkedIn,2026-07-07 05:00:00,True,True,True,False,False,False,Shortlisted
+APP00298,CAND00298,NextGen Labs,BI Analyst,Hyderabad,Job Portal,2026-07-07 06:00:00,True,True,False,False,False,False,Shortlisted
+APP00340,CAND00340,Alpha Tech,BI Analyst,Mumbai,Job Portal,2026-07-07 07:00:00,True,False,False,False,False,False,Screened
+APP00027,CAND00027,Alpha Tech,Marketing Analyst,Mumbai,Job Portal,2026-07-07 08:00:00,True,True,True,True,False,False,Interviewed
+APP00025,CAND00025,DataNova,BI Analyst,Gurugram,Company Website,2026-07-07 09:00:00,False,False,False,False,False,False,Applied
+APP00724,CAND00724,InsightHub,Data Analyst,Mumbai,LinkedIn,2026-07-07 10:00:00,True,True,True,True,False,False,Interviewed
+APP00844,CAND00844,BrightWorks,BI Analyst,Pune,Campus,2026-07-07 11:00:00,True,False,False,False,False,False,Screened
+APP00124,CAND00124,Alpha Tech,Product Analyst,Hyderabad,Job Portal,2026-07-07 12:00:00,False,False,False,False,False,False,Applied
+APP00318,CAND00318,BrightWorks,Marketing Analyst,Hyderabad,Job Portal,2026-07-07 13:00:00,True,True,True,False,False,False,Shortlisted
+APP00222,CAND00222,InsightHub,Business Analyst,Gurugram,Referral,2026-07-07 14:00:00,False,False,False,False,False,False,Applied
+APP00185,CAND00185,BrightWorks,Product Analyst,Hyderabad,Job Portal,2026-07-07 15:00:00,True,False,False,False,False,False,Screened
+APP00830,CAND00830,Alpha Tech,Business Analyst,Delhi,Company Website,2026-07-07 16:00:00,False,False,False,False,False,False,Applied
+APP00328,CAND00328,DataNova,Data Analyst,Bengaluru,Referral,2026-07-07 17:00:00,True,True,True,True,True,False,Offer
+APP00334,CAND00334,NextGen Labs,BI Analyst,Pune,Job Portal,2026-07-07 18:00:00,True,False,False,False,False,False,Screened
+APP00379,CAND00379,BrightWorks,Data Analyst,Delhi,LinkedIn,2026-07-07 19:00:00,True,True,True,False,False,False,Shortlisted
+APP00165,CAND00165,NextGen Labs,Business Analyst,Bengaluru,Job Portal,2026-07-07 20:00:00,True,False,False,False,False,False,Screened
+APP00773,CAND00773,InsightHub,Business Analyst,Hyderabad,Job Portal,2026-07-07 21:00:00,False,False,False,False,False,False,Applied
+APP00087,CAND00087,Alpha Tech,Data Analyst,Hyderabad,LinkedIn,2026-07-07 22:00:00,True,True,False,True,False,False,Interviewed
+APP00074,CAND00074,DataNova,Marketing Analyst,Delhi,LinkedIn,2026-07-07 23:00:00,True,False,False,False,False,False,Screened
+APP00109,CAND00109,DataNova,Product Analyst,Gurugram,Job Portal,2026-07-08 00:00:00,True,False,False,False,False,False,Screened
+APP00731,CAND00731,Alpha Tech,Data Analyst,Pune,Job Portal,2026-07-08 01:00:00,True,True,True,True,True,False,Offer
+APP00096,CAND00096,BrightWorks,BI Analyst,Hyderabad,Company Website,2026-07-08 03:00:00,True,False,False,False,False,False,Screened
+APP00233,CAND00233,BrightWorks,BI Analyst,Pune,Referral,2026-07-08 04:00:00,False,False,False,False,False,False,Applied
+APP00498,CAND00498,DataNova,Data Analyst,Delhi,Job Portal,2026-07-08 05:00:00,True,True,False,True,True,True,Hired
+APP00324,CAND00324,Alpha Tech,Marketing Analyst,Hyderabad,Job Portal,2026-07-08 07:00:00,False,False,False,False,False,False,Applied
+APP00526,CAND00526,Alpha Tech,Business Analyst,Pune,Company Website,2026-07-08 08:00:00,False,False,False,False,False,False,Applied
+APP00864,CAND00864,BrightWorks,Marketing Analyst,Bengaluru,Company Website,2026-07-08 09:00:00,True,False,False,False,False,False,Screened
+APP00660,CAND00660,Alpha Tech,Marketing Analyst,Delhi,Referral,2026-07-08 10:00:00,True,True,True,True,True,True,Hired
+APP00459,CAND00459,NextGen Labs,Business Analyst,Hyderabad,Job Portal,2026-07-08 11:00:00,True,False,False,False,False,False,Screened
+APP00666,CAND00666,NextGen Labs,Marketing Analyst,Mumbai,Job Portal,2026-07-08 12:00:00,True,False,False,False,False,False,Screened
+APP00799,CAND00799,DataNova,Business Analyst,Mumbai,Referral,2026-07-08 13:00:00,True,True,False,True,True,True,Hired
+APP00323,CAND00323,InsightHub,Data Analyst,Mumbai,Referral,2026-07-08 14:00:00,True,False,False,False,False,False,Screened
+APP00687,CAND00687,NextGen Labs,Business Analyst,Gurugram,Referral,2026-07-08 15:00:00,True,False,False,False,False,False,Screened
+APP00985,CAND00985,DataNova,Data Analyst,Mumbai,LinkedIn,2026-07-08 16:00:00,True,True,True,True,False,False,Interviewed
+APP00368,CAND00368,Alpha Tech,Business Analyst,Delhi,Campus,2026-07-08 17:00:00,True,False,False,False,False,False,Screened
+APP00556,CAND00556,InsightHub,Business Analyst,Hyderabad,Company Website,2026-07-08 18:00:00,True,True,True,True,True,True,Hired
+APP00550,CAND00550,DataNova,Business Analyst,Hyderabad,LinkedIn,2026-07-08 19:00:00,False,False,False,False,False,False,Applied
+APP00725,CAND00725,NextGen Labs,Business Analyst,Hyderabad,Referral,2026-07-08 20:00:00,True,False,False,False,False,False,Screened
+APP00601,CAND00601,BrightWorks,Product Analyst,Mumbai,Job Portal,2026-07-08 21:00:00,False,False,False,False,False,False,Applied
+APP00737,CAND00737,Alpha Tech,Product Analyst,Mumbai,Company Website,2026-07-08 22:00:00,True,True,True,True,True,True,Hired
+APP00625,CAND00625,NextGen Labs,Business Analyst,Delhi,Referral,2026-07-08 23:00:00,True,False,False,False,False,False,Screened
+APP00992,CAND00992,NextGen Labs,BI Analyst,Pune,Referral,2026-07-09 01:00:00,True,True,True,True,True,True,Hired
+APP00049,CAND00049,DataNova,Data Analyst,Hyderabad,Referral,2026-07-09 03:00:00,True,True,True,False,False,False,Shortlisted
+APP00282,CAND00282,DataNova,Marketing Analyst,Bengaluru,Company Website,2026-07-09 04:00:00,True,True,True,False,False,False,Shortlisted
+APP00207,CAND00207,Alpha Tech,Business Analyst,Gurugram,Job Portal,2026-07-09 05:00:00,True,True,True,True,False,False,Interviewed
+APP00408,CAND00408,DataNova,BI Analyst,Mumbai,Job Portal,2026-07-09 07:00:00,True,True,True,True,True,True,Hired
+APP00928,CAND00928,InsightHub,BI Analyst,Hyderabad,Referral,2026-07-09 08:00:00,False,False,False,False,False,False,Applied
+APP00458,CAND00458,DataNova,BI Analyst,Bengaluru,Company Website,2026-07-09 09:00:00,True,False,False,False,False,False,Screened
+APP00291,CAND00291,InsightHub,BI Analyst,Delhi,Job Portal,2026-07-09 10:00:00,True,True,True,True,True,True,Hired
+APP00831,CAND00831,Alpha Tech,Product Analyst,Hyderabad,Job Portal,2026-07-09 11:00:00,False,False,False,False,False,False,Applied
+APP00869,CAND00869,InsightHub,Data Analyst,Bengaluru,LinkedIn,2026-07-09 14:00:00,False,False,False,False,False,False,Applied
+APP00761,CAND00761,BrightWorks,BI Analyst,Mumbai,Job Portal,2026-07-09 15:00:00,False,False,False,False,False,False,Applied
+APP00250,CAND00250,InsightHub,Marketing Analyst,Delhi,LinkedIn,2026-07-09 16:00:00,True,True,True,True,False,False,Interviewed
+APP00481,CAND00481,DataNova,Marketing Analyst,Delhi,Referral,2026-07-09 17:00:00,True,True,True,True,True,True,Hired
+APP00914,CAND00914,InsightHub,Data Analyst,Delhi,Company Website,2026-07-09 18:00:00,True,True,True,True,True,True,Hired
+APP00659,CAND00659,DataNova,Product Analyst,Hyderabad,Referral,2026-07-09 19:00:00,False,False,False,False,False,False,Applied
+APP00417,CAND00417,BrightWorks,Data Analyst,Mumbai,Job Portal,2026-07-09 20:00:00,True,True,True,False,False,False,Shortlisted
+APP00383,CAND00383,BrightWorks,Marketing Analyst,Pune,Referral,2026-07-09 21:00:00,True,True,True,True,False,False,Interviewed
+APP00665,CAND00665,InsightHub,BI Analyst,Delhi,Job Portal,2026-07-09 22:00:00,True,False,False,False,False,False,Screened
+APP00168,CAND00168,Alpha Tech,Marketing Analyst,Hyderabad,Job Portal,2026-07-09 23:00:00,True,True,True,True,True,True,Hired
+APP00813,CAND00813,BrightWorks,Data Analyst,Pune,Job Portal,2026-07-10 00:00:00,True,True,True,False,False,False,Shortlisted
+APP00569,CAND00569,InsightHub,Business Analyst,Gurugram,Campus,2026-07-10 01:00:00,False,False,False,False,False,False,Applied
+APP00501,CAND00501,Alpha Tech,Product Analyst,Pune,Referral,2026-07-10 02:00:00,True,True,True,True,False,False,Interviewed
+APP00905,CAND00905,Alpha Tech,Business Analyst,Hyderabad,Company Website,2026-07-10 03:00:00,True,False,False,False,False,False,Screened
+APP00969,CAND00969,Alpha Tech,Business Analyst,Pune,Referral,2026-07-10 04:00:00,True,False,False,False,False,False,Screened
+APP00848,CAND00848,NextGen Labs,Data Analyst,Mumbai,Campus,2026-07-10 05:00:00,False,False,False,False,False,False,Applied
+APP00656,CAND00656,Alpha Tech,Data Analyst,Gurugram,Job Portal,2026-07-10 06:00:00,False,False,False,False,False,False,Applied
+APP00554,CAND00554,DataNova,Marketing Analyst,Pune,Referral,2026-07-10 07:00:00,True,False,False,False,False,False,Screened
+APP00058,CAND00058,DataNova,BI Analyst,Bengaluru,Job Portal,2026-07-10 08:00:00,False,False,False,False,False,False,Applied
+APP00581,CAND00581,BrightWorks,BI Analyst,Hyderabad,Company Website,2026-07-10 09:00:00,True,True,True,False,False,False,Shortlisted
+APP00560,CAND00560,InsightHub,Data Analyst,Bengaluru,Referral,2026-07-10 10:00:00,False,False,False,False,False,False,Applied
+APP00372,CAND00372,DataNova,Business Analyst,Pune,Job Portal,2026-07-10 11:00:00,True,True,True,False,False,False,Shortlisted
+APP00552,CAND00552,BrightWorks,Marketing Analyst,Gurugram,LinkedIn,2026-07-10 12:00:00,True,False,False,False,False,False,Screened
+APP00803,CAND00803,Alpha Tech,Marketing Analyst,Delhi,Referral,2026-07-10 13:00:00,True,False,False,False,False,False,Screened
+APP00221,CAND00221,Alpha Tech,Data Analyst,Delhi,Referral,2026-07-10 14:00:00,True,True,True,False,False,False,Shortlisted
+APP00997,CAND00997,InsightHub,Marketing Analyst,Bengaluru,Campus,2026-07-10 15:00:00,True,False,False,False,False,False,Screened
+APP00407,CAND00407,Alpha Tech,Marketing Analyst,Bengaluru,Company Website,2026-07-10 16:00:00,True,True,True,True,False,False,Interviewed
+APP00658,CAND00658,BrightWorks,Product Analyst,Delhi,Company Website,2026-07-10 17:00:00,True,False,False,False,False,False,Screened
+APP00629,CAND00629,BrightWorks,Business Analyst,Gurugram,Job Portal,2026-07-10 19:00:00,True,True,True,False,False,False,Shortlisted
+APP00877,CAND00877,BrightWorks,Product Analyst,Pune,LinkedIn,2026-07-10 20:00:00,True,False,False,False,False,False,Screened
+APP00594,CAND00594,Alpha Tech,BI Analyst,Gurugram,Company Website,2026-07-10 21:00:00,True,True,True,False,False,False,Shortlisted
+APP00279,CAND00279,Alpha Tech,Product Analyst,Mumbai,LinkedIn,2026-07-10 23:00:00,True,True,True,True,False,False,Interviewed
+APP00240,CAND00240,InsightHub,Data Analyst,Delhi,Job Portal,2026-07-11 00:00:00,True,False,False,False,False,False,Screened
+APP00295,CAND00295,Alpha Tech,Business Analyst,Hyderabad,Job Portal,2026-07-11 01:00:00,True,True,True,False,False,False,Shortlisted
+APP00186,CAND00186,BrightWorks,Marketing Analyst,Hyderabad,Referral,2026-07-11 02:00:00,True,False,False,False,False,False,Screened
+APP00385,CAND00385,NextGen Labs,Marketing Analyst,Bengaluru,LinkedIn,2026-07-11 03:00:00,True,True,True,False,False,False,Shortlisted
+APP00482,CAND00482,NextGen Labs,Business Analyst,Hyderabad,Referral,2026-07-11 05:00:00,True,True,True,False,False,False,Shortlisted
+APP00236,CAND00236,DataNova,Marketing Analyst,Delhi,LinkedIn,2026-07-11 07:00:00,True,False,False,False,False,False,Screened
+APP00257,CAND00257,DataNova,BI Analyst,Hyderabad,Campus,2026-07-11 08:00:00,True,True,True,False,False,False,Shortlisted
+APP00927,CAND00927,NextGen Labs,Marketing Analyst,Bengaluru,Job Portal,2026-07-11 09:00:00,True,False,False,False,False,False,Screened
+APP00367,CAND00367,BrightWorks,Business Analyst,Mumbai,Campus,2026-07-11 11:00:00,True,True,True,True,False,False,Interviewed
+APP00781,CAND00781,InsightHub,Marketing Analyst,Bengaluru,Referral,2026-07-11 12:00:00,True,True,True,True,True,False,Offer
+APP00048,CAND00048,NextGen Labs,Business Analyst,Delhi,Referral,2026-07-11 13:00:00,False,False,False,False,False,False,Applied
+APP00524,CAND00524,Alpha Tech,BI Analyst,Pune,LinkedIn,2026-07-11 14:00:00,False,False,False,False,False,False,Applied
+APP00941,CAND00941,Alpha Tech,BI Analyst,Gurugram,Job Portal,2026-07-11 15:00:00,True,True,True,False,False,False,Shortlisted
+APP00099,CAND00099,DataNova,Product Analyst,Pune,Job Portal,2026-07-11 16:00:00,True,True,True,False,False,False,Shortlisted
+APP00802,CAND00802,Alpha Tech,Data Analyst,Pune,Job Portal,2026-07-11 17:00:00,False,False,False,False,False,False,Applied
+APP00122,CAND00122,InsightHub,Data Analyst,Bengaluru,Campus,2026-07-11 18:00:00,True,True,True,True,False,False,Interviewed
+APP00710,CAND00710,InsightHub,Business Analyst,Hyderabad,Referral,2026-07-11 19:00:00,True,True,True,True,True,False,Offer
+APP00090,CAND00090,DataNova,Marketing Analyst,Delhi,Company Website,2026-07-11 20:00:00,False,False,False,False,False,False,Applied
+APP00014,CAND00014,DataNova,Business Analyst,Delhi,Job Portal,2026-07-11 21:00:00,True,True,True,True,False,False,Interviewed
+APP00156,CAND00156,NextGen Labs,Data Analyst,Mumbai,Job Portal,2026-07-11 22:00:00,True,True,False,False,False,False,Shortlisted
+APP00801,CAND00801,Alpha Tech,Marketing Analyst,Gurugram,LinkedIn,2026-07-11 23:00:00,True,True,True,True,True,True,Hired
+APP00907,CAND00907,DataNova,Data Analyst,Mumbai,LinkedIn,2026-07-12 00:00:00,True,False,False,False,False,False,Screened
+APP00597,CAND00597,Alpha Tech,Marketing Analyst,Hyderabad,Referral,2026-07-12 01:00:00,True,False,False,False,False,False,Screened
+APP00885,CAND00885,DataNova,Marketing Analyst,Gurugram,LinkedIn,2026-07-12 02:00:00,False,False,False,False,False,False,Applied
+APP00646,CAND00646,Alpha Tech,Product Analyst,Delhi,Campus,2026-07-12 03:00:00,True,True,True,False,False,False,Shortlisted
+APP00886,CAND00886,InsightHub,Data Analyst,Hyderabad,Job Portal,2026-07-12 04:00:00,True,True,True,True,True,False,Offer
+APP00549,CAND00549,NextGen Labs,Product Analyst,Pune,Referral,2026-07-12 05:00:00,False,False,False,False,False,False,Applied
+APP00575,CAND00575,NextGen Labs,Data Analyst,Bengaluru,LinkedIn,2026-07-12 06:00:00,True,True,True,False,False,False,Shortlisted
+APP00485,CAND00485,BrightWorks,BI Analyst,Hyderabad,Referral,2026-07-12 07:00:00,False,False,False,False,False,False,Applied
+APP00506,CAND00506,InsightHub,Marketing Analyst,Hyderabad,Job Portal,2026-07-12 08:00:00,False,False,False,False,False,False,Applied
+APP00148,CAND00148,BrightWorks,Marketing Analyst,Bengaluru,Company Website,2026-07-12 09:00:00,False,False,False,False,False,False,Applied
+APP00108,CAND00108,DataNova,BI Analyst,Gurugram,LinkedIn,2026-07-12 10:00:00,False,False,False,False,False,False,Applied
+APP00794,CAND00794,DataNova,Marketing Analyst,Delhi,Referral,2026-07-12 11:00:00,True,True,True,True,False,False,Interviewed
+APP00719,CAND00719,BrightWorks,Data Analyst,Mumbai,Job Portal,2026-07-12 12:00:00,False,False,False,False,False,False,Applied
+APP00063,CAND00063,InsightHub,Marketing Analyst,Mumbai,LinkedIn,2026-07-12 13:00:00,True,True,True,True,False,False,Interviewed
+APP00499,CAND00499,BrightWorks,BI Analyst,Pune,Campus,2026-07-12 14:00:00,True,False,False,False,False,False,Screened
+APP00206,CAND00206,DataNova,Business Analyst,Pune,Job Portal,2026-07-12 15:00:00,True,False,False,False,False,False,Screened
+APP00123,CAND00123,Alpha Tech,Data Analyst,Mumbai,Company Website,2026-07-12 16:00:00,False,False,False,False,False,False,Applied
+APP00344,CAND00344,InsightHub,Data Analyst,Bengaluru,Company Website,2026-07-12 17:00:00,True,False,False,False,False,False,Screened
+APP00337,CAND00337,Alpha Tech,Business Analyst,Hyderabad,LinkedIn,2026-07-12 18:00:00,False,False,False,False,False,False,Applied
+APP00362,CAND00362,NextGen Labs,BI Analyst,Mumbai,Referral,2026-07-12 19:00:00,False,False,False,False,False,False,Applied
+APP00020,CAND00020,DataNova,BI Analyst,Delhi,Job Portal,2026-07-12 20:00:00,True,False,False,False,False,False,Screened
+APP00479,CAND00479,InsightHub,Data Analyst,Mumbai,Campus,2026-07-12 21:00:00,True,True,True,True,False,False,Interviewed
+APP00520,CAND00520,NextGen Labs,Marketing Analyst,Gurugram,Job Portal,2026-07-12 22:00:00,False,False,False,False,False,False,Applied
+APP00726,CAND00726,DataNova,BI Analyst,Hyderabad,LinkedIn,2026-07-12 23:00:00,False,False,False,False,False,False,Applied
+APP00205,CAND00205,InsightHub,Product Analyst,Hyderabad,Referral,2026-07-13 00:00:00,True,True,True,False,False,False,Shortlisted
+APP00349,CAND00349,DataNova,Marketing Analyst,Mumbai,Company Website,2026-07-13 01:00:00,True,False,False,False,False,False,Screened
+APP00160,CAND00160,Alpha Tech,Product Analyst,Delhi,LinkedIn,2026-07-13 02:00:00,True,False,False,False,False,False,Screened
+APP00983,CAND00983,Alpha Tech,BI Analyst,Pune,Job Portal,2026-07-13 03:00:00,False,False,False,False,False,False,Applied
+APP00387,CAND00387,DataNova,Product Analyst,Bengaluru,Job Portal,2026-07-13 04:00:00,True,False,False,False,False,False,Screened
+APP00314,CAND00314,NextGen Labs,Product Analyst,Delhi,Campus,2026-07-13 05:00:00,False,False,False,False,False,False,Applied
+APP00694,CAND00694,Alpha Tech,Marketing Analyst,Mumbai,Job Portal,2026-07-13 07:00:00,True,False,False,False,False,False,Screened
+APP00289,CAND00289,InsightHub,Product Analyst,Pune,Job Portal,2026-07-13 08:00:00,False,False,False,False,False,False,Applied
+APP00214,CAND00214,InsightHub,BI Analyst,Bengaluru,Job Portal,2026-07-13 09:00:00,True,True,True,False,False,False,Shortlisted
+APP00792,CAND00792,DataNova,Marketing Analyst,Mumbai,Referral,2026-07-13 10:00:00,True,False,False,False,False,False,Screened
+APP00871,CAND00871,Alpha Tech,Data Analyst,Delhi,Company Website,2026-07-13 11:00:00,True,True,True,True,True,True,Hired
+APP00252,CAND00252,BrightWorks,Product Analyst,Hyderabad,Company Website,2026-07-13 12:00:00,True,False,False,False,False,False,Screened
+APP00603,CAND00603,NextGen Labs,Business Analyst,Pune,Job Portal,2026-07-13 13:00:00,True,False,False,False,False,False,Screened
+APP00304,CAND00304,BrightWorks,Marketing Analyst,Hyderabad,Referral,2026-07-13 14:00:00,False,False,False,False,False,False,Applied
+APP00776,CAND00776,BrightWorks,Marketing Analyst,Bengaluru,Job Portal,2026-07-13 15:00:00,True,False,False,False,False,False,Screened
+APP00047,CAND00047,InsightHub,BI Analyst,Mumbai,Company Website,2026-07-13 17:00:00,True,True,True,True,True,True,Hired
+APP00101,CAND00101,BrightWorks,Business Analyst,Gurugram,Job Portal,2026-07-13 18:00:00,True,True,True,False,False,False,Shortlisted
+APP00523,CAND00523,InsightHub,Data Analyst,Mumbai,Campus,2026-07-13 19:00:00,True,True,True,True,False,False,Interviewed
+APP00648,CAND00648,InsightHub,Marketing Analyst,Mumbai,Referral,2026-07-13 20:00:00,False,False,False,False,False,False,Applied
+APP00548,CAND00548,DataNova,Data Analyst,Bengaluru,Referral,2026-07-13 21:00:00,True,True,True,True,False,False,Interviewed
+APP00005,CAND00005,BrightWorks,BI Analyst,Delhi,Job Portal,2026-07-13 22:00:00,True,True,True,False,False,False,Shortlisted
+APP00226,CAND00226,BrightWorks,Product Analyst,Hyderabad,Job Portal,2026-07-13 23:00:00,True,False,False,False,False,False,Screened
+APP00451,CAND00451,DataNova,Business Analyst,Bengaluru,LinkedIn,2026-07-14 00:00:00,True,True,True,False,False,False,Shortlisted
+APP00926,CAND00926,Alpha Tech,Marketing Analyst,Hyderabad,Job Portal,2026-07-14 01:00:00,True,False,False,False,False,False,Screened
+APP00736,CAND00736,DataNova,Marketing Analyst,Bengaluru,LinkedIn,2026-07-14 02:00:00,True,False,False,False,False,False,Screened
+APP00034,CAND00034,NextGen Labs,Marketing Analyst,Bengaluru,Campus,2026-07-14 03:00:00,True,True,True,False,False,False,Shortlisted
+APP00934,CAND00934,DataNova,Marketing Analyst,Delhi,Referral,2026-07-14 04:00:00,True,True,True,False,False,False,Shortlisted
+APP00858,CAND00858,InsightHub,Product Analyst,Hyderabad,Company Website,2026-07-14 05:00:00,False,False,False,False,False,False,Applied
+APP00035,CAND00035,NextGen Labs,Marketing Analyst,Pune,Campus,2026-07-14 06:00:00,False,False,False,False,False,False,Applied
+APP00059,CAND00059,DataNova,BI Analyst,Bengaluru,Job Portal,2026-07-14 07:00:00,False,False,False,False,False,False,Applied
+APP00430,CAND00430,BrightWorks,Business Analyst,Gurugram,Job Portal,2026-07-14 08:00:00,True,False,False,False,False,False,Screened
+APP00115,CAND00115,InsightHub,Business Analyst,Pune,Referral,2026-07-14 09:00:00,True,False,False,False,False,False,Screened
+APP00965,CAND00965,NextGen Labs,Product Analyst,Pune,Job Portal,2026-07-14 10:00:00,True,False,False,False,False,False,Screened
+APP00183,CAND00183,BrightWorks,BI Analyst,Hyderabad,Campus,2026-07-14 11:00:00,True,False,False,False,False,False,Screened
+APP00089,CAND00089,Alpha Tech,Data Analyst,Gurugram,Campus,2026-07-14 12:00:00,True,True,True,True,True,False,Offer
+APP00203,CAND00203,Alpha Tech,Business Analyst,Hyderabad,Job Portal,2026-07-14 13:00:00,False,False,False,False,False,False,Applied
+APP00561,CAND00561,BrightWorks,BI Analyst,Bengaluru,LinkedIn,2026-07-14 14:00:00,True,False,False,False,False,False,Screened
+APP00503,CAND00503,NextGen Labs,Data Analyst,Pune,Company Website,2026-07-14 15:00:00,True,True,False,True,True,False,Offer
+APP00242,CAND00242,Alpha Tech,Data Analyst,Hyderabad,Campus,2026-07-14 16:00:00,False,False,False,False,False,False,Applied
+APP00800,CAND00800,BrightWorks,Data Analyst,Pune,Campus,2026-07-14 18:00:00,True,True,True,True,True,False,Offer
+APP00286,CAND00286,NextGen Labs,BI Analyst,Mumbai,Job Portal,2026-07-14 19:00:00,False,False,False,False,False,False,Applied
+APP00974,CAND00974,NextGen Labs,Business Analyst,Hyderabad,Job Portal,2026-07-14 20:00:00,True,True,True,True,False,False,Interviewed
+APP00231,CAND00231,DataNova,Marketing Analyst,Hyderabad,LinkedIn,2026-07-14 21:00:00,True,True,True,False,False,False,Shortlisted
+APP00982,CAND00982,BrightWorks,Business Analyst,Delhi,LinkedIn,2026-07-14 22:00:00,True,False,False,False,False,False,Screened
+APP00513,CAND00513,BrightWorks,Data Analyst,Mumbai,Campus,2026-07-15 00:00:00,True,False,False,False,False,False,Screened
+APP00611,CAND00611,InsightHub,BI Analyst,Mumbai,Job Portal,2026-07-15 01:00:00,True,False,False,False,False,False,Screened
+APP00833,CAND00833,DataNova,Data Analyst,Pune,Job Portal,2026-07-15 03:00:00,True,True,False,False,False,False,Shortlisted
+APP00416,CAND00416,NextGen Labs,BI Analyst,Mumbai,Company Website,2026-07-15 04:00:00,True,True,True,True,False,False,Interviewed
+APP00412,CAND00412,BrightWorks,Marketing Analyst,Gurugram,Campus,2026-07-15 05:00:00,True,False,False,False,False,False,Screened
+APP00717,CAND00717,DataNova,Marketing Analyst,Gurugram,LinkedIn,2026-07-15 06:00:00,False,False,False,False,False,False,Applied
+APP00403,CAND00403,BrightWorks,BI Analyst,Gurugram,Company Website,2026-07-15 07:00:00,True,True,True,False,False,False,Shortlisted
+APP00555,CAND00555,NextGen Labs,Business Analyst,Mumbai,LinkedIn,2026-07-15 08:00:00,True,False,False,False,False,False,Screened
+APP00030,CAND00030,BrightWorks,Product Analyst,Mumbai,Job Portal,2026-07-15 09:00:00,True,True,True,False,False,False,Shortlisted
+APP00311,CAND00311,Alpha Tech,Product Analyst,Hyderabad,Company Website,2026-07-15 10:00:00,False,False,False,False,False,False,Applied
+APP00938,CAND00938,NextGen Labs,Marketing Analyst,Bengaluru,Campus,2026-07-15 11:00:00,False,False,False,False,False,False,Applied
+APP00525,CAND00525,BrightWorks,Marketing Analyst,Hyderabad,LinkedIn,2026-07-15 12:00:00,True,True,True,False,False,False,Shortlisted
+APP00644,CAND00644,Alpha Tech,Marketing Analyst,Mumbai,Company Website,2026-07-15 13:00:00,True,False,False,False,False,False,Screened
+APP00784,CAND00784,DataNova,Product Analyst,Gurugram,Company Website,2026-07-15 14:00:00,True,True,True,False,False,False,Shortlisted
+APP00166,CAND00166,DataNova,Business Analyst,Bengaluru,LinkedIn,2026-07-15 15:00:00,True,True,True,True,False,False,Interviewed
+APP00283,CAND00283,InsightHub,Marketing Analyst,Mumbai,Company Website,2026-07-15 16:00:00,True,False,False,False,False,False,Screened
+APP00261,CAND00261,Alpha Tech,Product Analyst,Pune,Referral,2026-07-15 17:00:00,False,False,False,False,False,False,Applied
+APP00916,CAND00916,InsightHub,BI Analyst,Hyderabad,Company Website,2026-07-15 18:00:00,True,False,False,False,False,False,Screened
+APP00768,CAND00768,InsightHub,Data Analyst,Delhi,LinkedIn,2026-07-15 19:00:00,True,True,False,False,False,False,Shortlisted
+APP00245,CAND00245,Alpha Tech,Business Analyst,Delhi,Job Portal,2026-07-15 20:00:00,False,False,False,False,False,False,Applied
+APP00635,CAND00635,BrightWorks,Marketing Analyst,Mumbai,Job Portal,2026-07-15 21:00:00,False,False,False,False,False,False,Applied
+APP00478,CAND00478,InsightHub,Product Analyst,Bengaluru,Referral,2026-07-15 22:00:00,True,False,False,False,False,False,Screened
+APP00627,CAND00627,DataNova,Product Analyst,Gurugram,Company Website,2026-07-15 23:00:00,True,True,True,False,False,False,Shortlisted
+APP00104,CAND00104,BrightWorks,Marketing Analyst,Gurugram,Company Website,2026-07-16 00:00:00,True,True,True,True,True,False,Offer
+APP00050,CAND00050,InsightHub,BI Analyst,Gurugram,Job Portal,2026-07-16 01:00:00,False,False,False,False,False,False,Applied
+APP00786,CAND00786,NextGen Labs,Marketing Analyst,Delhi,Campus,2026-07-16 04:00:00,False,False,False,False,False,False,Applied
+APP00811,CAND00811,Alpha Tech,Marketing Analyst,Pune,Campus,2026-07-16 05:00:00,False,False,False,False,False,False,Applied
+APP00447,CAND00447,BrightWorks,Marketing Analyst,Gurugram,Campus,2026-07-16 06:00:00,False,False,False,False,False,False,Applied
+APP00924,CAND00924,DataNova,Data Analyst,Pune,LinkedIn,2026-07-16 07:00:00,True,True,True,True,False,False,Interviewed
+APP00856,CAND00856,BrightWorks,Data Analyst,Delhi,Job Portal,2026-07-16 08:00:00,True,True,True,False,False,False,Shortlisted
+APP00277,CAND00277,NextGen Labs,Marketing Analyst,Mumbai,LinkedIn,2026-07-16 09:00:00,True,True,True,True,True,True,Hired
+APP00862,CAND00862,Alpha Tech,Product Analyst,Mumbai,Company Website,2026-07-16 10:00:00,True,True,False,False,False,False,Shortlisted
+APP00012,CAND00012,NextGen Labs,Data Analyst,Pune,Campus,2026-07-16 11:00:00,True,True,True,False,False,False,Shortlisted
+APP00333,CAND00333,BrightWorks,Product Analyst,Delhi,Job Portal,2026-07-16 12:00:00,True,True,True,True,False,False,Interviewed
+APP00210,CAND00210,DataNova,Business Analyst,Bengaluru,Job Portal,2026-07-16 13:00:00,True,False,False,False,False,False,Screened
+APP00698,CAND00698,NextGen Labs,BI Analyst,Pune,Referral,2026-07-16 14:00:00,True,False,False,False,False,False,Screened
+APP00608,CAND00608,InsightHub,Product Analyst,Mumbai,Company Website,2026-07-16 15:00:00,False,False,False,False,False,False,Applied
+APP00146,CAND00146,InsightHub,Product Analyst,Hyderabad,Job Portal,2026-07-16 16:00:00,True,False,False,False,False,False,Screened
+APP00843,CAND00843,DataNova,Marketing Analyst,Bengaluru,Job Portal,2026-07-16 17:00:00,True,True,True,True,False,False,Interviewed
+APP00170,CAND00170,BrightWorks,Marketing Analyst,Gurugram,Referral,2026-07-16 18:00:00,True,True,True,True,False,False,Interviewed
+APP00649,CAND00649,Alpha Tech,Product Analyst,Hyderabad,LinkedIn,2026-07-16 19:00:00,True,False,False,False,False,False,Screened
+APP00015,CAND00015,InsightHub,Business Analyst,Mumbai,Job Portal,2026-07-16 20:00:00,True,True,True,False,False,False,Shortlisted
+APP00182,CAND00182,DataNova,BI Analyst,Bengaluru,Job Portal,2026-07-16 21:00:00,True,True,True,True,False,False,Interviewed
+APP00752,CAND00752,BrightWorks,Data Analyst,Hyderabad,Campus,2026-07-16 22:00:00,True,True,True,True,True,True,Hired
+APP00994,CAND00994,NextGen Labs,Business Analyst,Delhi,Referral,2026-07-16 23:00:00,True,True,True,False,False,False,Shortlisted
+APP00509,CAND00509,DataNova,BI Analyst,Mumbai,Campus,2026-07-17 00:00:00,False,False,False,False,False,False,Applied
+APP00876,CAND00876,NextGen Labs,Product Analyst,Delhi,Job Portal,2026-07-17 01:00:00,True,False,False,False,False,False,Screened
+APP00528,CAND00528,BrightWorks,Data Analyst,Hyderabad,Job Portal,2026-07-17 02:00:00,True,True,False,True,False,False,Interviewed
+APP00836,CAND00836,InsightHub,Product Analyst,Hyderabad,Company Website,2026-07-17 03:00:00,True,False,False,False,False,False,Screened
+APP00002,CAND00002,DataNova,Product Analyst,Mumbai,Campus,2026-07-17 04:00:00,False,False,False,False,False,False,Applied
+APP00551,CAND00551,InsightHub,Marketing Analyst,Bengaluru,Referral,2026-07-17 05:00:00,True,True,False,True,False,False,Interviewed
+APP00363,CAND00363,InsightHub,Data Analyst,Bengaluru,Company Website,2026-07-17 06:00:00,True,False,False,False,False,False,Screened
+APP00828,CAND00828,NextGen Labs,Data Analyst,Hyderabad,Company Website,2026-07-17 07:00:00,True,True,True,False,False,False,Shortlisted
+APP00571,CAND00571,DataNova,Business Analyst,Mumbai,Company Website,2026-07-17 08:00:00,True,True,True,True,False,False,Interviewed
+APP00239,CAND00239,Alpha Tech,Product Analyst,Hyderabad,Referral,2026-07-17 09:00:00,True,True,True,False,False,False,Shortlisted
+APP00870,CAND00870,Alpha Tech,BI Analyst,Delhi,Campus,2026-07-17 10:00:00,True,True,True,True,False,False,Interviewed
+APP00863,CAND00863,BrightWorks,Business Analyst,Pune,Referral,2026-07-17 11:00:00,True,True,True,True,False,False,Interviewed
+APP00288,CAND00288,Alpha Tech,Marketing Analyst,Pune,Referral,2026-07-17 12:00:00,True,True,True,False,False,False,Shortlisted
+APP00181,CAND00181,NextGen Labs,Product Analyst,Pune,Company Website,2026-07-17 13:00:00,True,False,False,False,False,False,Screened
+APP00577,CAND00577,DataNova,Data Analyst,Mumbai,Job Portal,2026-07-17 14:00:00,True,False,False,False,False,False,Screened
+APP00901,CAND00901,InsightHub,Product Analyst,Bengaluru,Job Portal,2026-07-17 15:00:00,True,True,True,True,True,False,Offer
+APP00902,CAND00902,InsightHub,Product Analyst,Mumbai,Job Portal,2026-07-17 16:00:00,True,True,True,True,True,False,Offer
+APP00164,CAND00164,DataNova,BI Analyst,Bengaluru,Referral,2026-07-17 17:00:00,True,True,False,True,False,False,Interviewed
+APP00330,CAND00330,BrightWorks,BI Analyst,Pune,Job Portal,2026-07-17 18:00:00,True,True,True,True,True,False,Offer
+APP00701,CAND00701,DataNova,Data Analyst,Delhi,Referral,2026-07-17 19:00:00,True,True,True,False,False,False,Shortlisted
+APP00822,CAND00822,BrightWorks,BI Analyst,Pune,Job Portal,2026-07-17 20:00:00,True,False,False,False,False,False,Screened
+APP00706,CAND00706,BrightWorks,Data Analyst,Delhi,Campus,2026-07-17 21:00:00,False,False,False,False,False,False,Applied
+APP00415,CAND00415,NextGen Labs,Product Analyst,Bengaluru,Referral,2026-07-17 22:00:00,True,True,True,True,False,False,Interviewed
+APP00505,CAND00505,DataNova,Marketing Analyst,Hyderabad,Referral,2026-07-17 23:00:00,True,True,True,False,False,False,Shortlisted
+APP00930,CAND00930,DataNova,Marketing Analyst,Mumbai,Job Portal,2026-07-18 00:00:00,True,True,True,True,False,False,Interviewed
+APP00297,CAND00297,BrightWorks,Business Analyst,Bengaluru,LinkedIn,2026-07-18 01:00:00,True,False,False,False,False,False,Screened
+APP00003,CAND00003,DataNova,BI Analyst,Gurugram,LinkedIn,2026-07-18 02:00:00,True,True,True,True,False,False,Interviewed
+APP00945,CAND00945,BrightWorks,BI Analyst,Pune,Job Portal,2026-07-18 05:00:00,False,False,False,False,False,False,Applied
+APP00772,CAND00772,Alpha Tech,Marketing Analyst,Mumbai,LinkedIn,2026-07-18 06:00:00,True,True,True,False,False,False,Shortlisted
+APP00452,CAND00452,NextGen Labs,Product Analyst,Mumbai,Referral,2026-07-18 08:00:00,False,False,False,False,False,False,Applied
+APP00192,CAND00192,Alpha Tech,Product Analyst,Gurugram,Campus,2026-07-18 09:00:00,True,False,False,False,False,False,Screened
+APP00149,CAND00149,BrightWorks,BI Analyst,Bengaluru,Job Portal,2026-07-18 10:00:00,False,False,False,False,False,False,Applied
+APP00618,CAND00618,Alpha Tech,BI Analyst,Gurugram,Job Portal,2026-07-18 11:00:00,True,True,True,True,False,False,Interviewed
+APP00287,CAND00287,InsightHub,Product Analyst,Pune,Company Website,2026-07-18 12:00:00,True,True,True,True,False,False,Interviewed
+APP00542,CAND00542,NextGen Labs,Product Analyst,Bengaluru,Referral,2026-07-18 13:00:00,True,False,False,False,False,False,Screened
+APP00490,CAND00490,NextGen Labs,Product Analyst,Gurugram,Campus,2026-07-18 14:00:00,True,True,True,True,True,False,Offer
+APP00596,CAND00596,NextGen Labs,Product Analyst,Gurugram,Company Website,2026-07-18 15:00:00,False,False,False,False,False,False,Applied
+APP00243,CAND00243,InsightHub,Business Analyst,Mumbai,Campus,2026-07-18 17:00:00,True,False,False,False,False,False,Screened
+APP00060,CAND00060,BrightWorks,Business Analyst,Pune,Company Website,2026-07-18 18:00:00,True,False,False,False,False,False,Screened
+APP00565,CAND00565,NextGen Labs,Business Analyst,Delhi,Company Website,2026-07-18 19:00:00,False,False,False,False,False,False,Applied
+APP00704,CAND00704,DataNova,Business Analyst,Delhi,Job Portal,2026-07-18 21:00:00,True,False,False,False,False,False,Screened
+APP00200,CAND00200,Alpha Tech,BI Analyst,Hyderabad,LinkedIn,2026-07-18 22:00:00,False,False,False,False,False,False,Applied
+APP00426,CAND00426,Alpha Tech,Data Analyst,Pune,Referral,2026-07-18 23:00:00,True,False,False,False,False,False,Screened
+APP00769,CAND00769,Alpha Tech,Marketing Analyst,Gurugram,Company Website,2026-07-19 00:00:00,True,False,False,False,False,False,Screened
+APP00702,CAND00702,DataNova,Business Analyst,Hyderabad,Job Portal,2026-07-19 01:00:00,True,True,True,True,False,False,Interviewed
+APP00995,CAND00995,BrightWorks,Business Analyst,Delhi,Company Website,2026-07-19 02:00:00,False,False,False,False,False,False,Applied
+APP00351,CAND00351,Alpha Tech,Marketing Analyst,Pune,Company Website,2026-07-19 03:00:00,True,False,False,False,False,False,Screened
+APP00838,CAND00838,NextGen Labs,Business Analyst,Delhi,Company Website,2026-07-19 04:00:00,True,False,False,False,False,False,Screened
+APP00683,CAND00683,DataNova,Marketing Analyst,Gurugram,Job Portal,2026-07-19 05:00:00,True,True,True,True,False,False,Interviewed
+APP00672,CAND00672,Alpha Tech,Product Analyst,Hyderabad,Campus,2026-07-19 06:00:00,False,False,False,False,False,False,Applied
+APP00213,CAND00213,BrightWorks,BI Analyst,Gurugram,Referral,2026-07-19 07:00:00,True,False,False,False,False,False,Screened
+APP00357,CAND00357,Alpha Tech,Data Analyst,Pune,Job Portal,2026-07-19 08:00:00,True,False,False,False,False,False,Screened
+APP00903,CAND00903,Alpha Tech,BI Analyst,Mumbai,Job Portal,2026-07-19 09:00:00,True,True,True,False,False,False,Shortlisted
+APP00197,CAND00197,BrightWorks,Marketing Analyst,Gurugram,LinkedIn,2026-07-19 10:00:00,True,True,False,False,False,False,Shortlisted
+APP00562,CAND00562,InsightHub,BI Analyst,Mumbai,Job Portal,2026-07-19 11:00:00,False,False,False,False,False,False,Applied
+APP00887,CAND00887,DataNova,Marketing Analyst,Pune,Referral,2026-07-19 12:00:00,True,False,False,False,False,False,Screened
+APP00591,CAND00591,NextGen Labs,BI Analyst,Delhi,Job Portal,2026-07-19 13:00:00,True,True,True,True,False,False,Interviewed
+APP00566,CAND00566,NextGen Labs,Product Analyst,Pune,Referral,2026-07-19 14:00:00,True,False,False,False,False,False,Screened
+APP00254,CAND00254,NextGen Labs,Marketing Analyst,Mumbai,Company Website,2026-07-19 15:00:00,True,False,False,False,False,False,Screened
+APP00749,CAND00749,NextGen Labs,Business Analyst,Bengaluru,Campus,2026-07-19 17:00:00,False,False,False,False,False,False,Applied
+APP00787,CAND00787,InsightHub,Business Analyst,Pune,Referral,2026-07-19 18:00:00,False,False,False,False,False,False,Applied
+APP00126,CAND00126,DataNova,Business Analyst,Gurugram,Company Website,2026-07-19 19:00:00,True,True,True,True,True,True,Hired
+APP00600,CAND00600,Alpha Tech,Marketing Analyst,Delhi,Job Portal,2026-07-19 20:00:00,True,True,True,True,False,False,Interviewed
+APP00293,CAND00293,DataNova,Product Analyst,Bengaluru,LinkedIn,2026-07-19 21:00:00,False,False,False,False,False,False,Applied
+APP00806,CAND00806,DataNova,BI Analyst,Hyderabad,LinkedIn,2026-07-19 22:00:00,True,True,True,False,False,False,Shortlisted
+APP00011,CAND00011,InsightHub,Business Analyst,Delhi,Job Portal,2026-07-19 23:00:00,True,False,False,False,False,False,Screened
+APP00046,CAND00046,NextGen Labs,Data Analyst,Bengaluru,Referral,2026-07-20 00:00:00,True,True,True,True,False,False,Interviewed
+APP00788,CAND00788,DataNova,Data Analyst,Delhi,Company Website,2026-07-20 01:00:00,True,False,False,False,False,False,Screened
+APP00780,CAND00780,BrightWorks,Product Analyst,Gurugram,Referral,2026-07-20 02:00:00,True,False,False,False,False,False,Screened
+APP00088,CAND00088,Alpha Tech,Data Analyst,Mumbai,Referral,2026-07-20 03:00:00,False,False,False,False,False,False,Applied
+APP00507,CAND00507,InsightHub,Data Analyst,Gurugram,Campus,2026-07-20 04:00:00,True,True,True,False,False,False,Shortlisted
+APP00771,CAND00771,DataNova,Data Analyst,Gurugram,Job Portal,2026-07-20 05:00:00,True,False,False,False,False,False,Screened
+APP00404,CAND00404,NextGen Labs,Product Analyst,Delhi,LinkedIn,2026-07-20 06:00:00,False,False,False,False,False,False,Applied
+APP00246,CAND00246,NextGen Labs,Product Analyst,Hyderabad,Campus,2026-07-20 07:00:00,True,False,False,False,False,False,Screened
+APP00657,CAND00657,Alpha Tech,Marketing Analyst,Delhi,Job Portal,2026-07-20 08:00:00,True,False,False,False,False,False,Screened
+APP00305,CAND00305,Alpha Tech,Product Analyst,Gurugram,LinkedIn,2026-07-20 09:00:00,True,True,True,True,False,False,Interviewed
+APP00401,CAND00401,BrightWorks,BI Analyst,Pune,Job Portal,2026-07-20 10:00:00,True,False,False,False,False,False,Screened
+APP00730,CAND00730,Alpha Tech,Business Analyst,Hyderabad,Job Portal,2026-07-20 11:00:00,True,False,False,False,False,False,Screened
+APP00469,CAND00469,InsightHub,BI Analyst,Hyderabad,Job Portal,2026-07-20 12:00:00,False,False,False,False,False,False,Applied
+APP00891,CAND00891,Alpha Tech,Marketing Analyst,Hyderabad,LinkedIn,2026-07-20 13:00:00,True,False,False,False,False,False,Screened
+APP00721,CAND00721,InsightHub,Product Analyst,Hyderabad,Campus,2026-07-20 14:00:00,True,True,True,True,False,False,Interviewed
+APP00079,CAND00079,DataNova,BI Analyst,Bengaluru,Company Website,2026-07-20 15:00:00,True,True,True,True,False,False,Interviewed
+APP00487,CAND00487,NextGen Labs,Marketing Analyst,Pune,Job Portal,2026-07-20 16:00:00,True,False,False,False,False,False,Screened
+APP00494,CAND00494,NextGen Labs,BI Analyst,Delhi,Job Portal,2026-07-20 17:00:00,False,False,False,False,False,False,Applied
+APP00418,CAND00418,BrightWorks,Product Analyst,Delhi,Company Website,2026-07-20 18:00:00,True,True,True,False,False,False,Shortlisted
+APP00157,CAND00157,NextGen Labs,Data Analyst,Bengaluru,Referral,2026-07-20 19:00:00,False,False,False,False,False,False,Applied
+APP00223,CAND00223,DataNova,Marketing Analyst,Mumbai,Job Portal,2026-07-20 20:00:00,False,False,False,False,False,False,Applied
+APP00396,CAND00396,InsightHub,Business Analyst,Gurugram,Campus,2026-07-20 21:00:00,True,True,True,True,True,True,Hired
+APP00949,CAND00949,DataNova,Data Analyst,Mumbai,LinkedIn,2026-07-20 22:00:00,False,False,False,False,False,False,Applied
+APP00920,CAND00920,NextGen Labs,Marketing Analyst,Delhi,Job Portal,2026-07-20 23:00:00,False,False,False,False,False,False,Applied
+APP00510,CAND00510,DataNova,BI Analyst,Mumbai,LinkedIn,2026-07-21 00:00:00,True,True,True,True,False,False,Interviewed
+APP00935,CAND00935,BrightWorks,BI Analyst,Delhi,Job Portal,2026-07-21 01:00:00,True,False,False,False,False,False,Screened
+APP00278,CAND00278,BrightWorks,Product Analyst,Pune,Referral,2026-07-21 02:00:00,True,False,False,False,False,False,Screened
+APP00216,CAND00216,InsightHub,Business Analyst,Bengaluru,Job Portal,2026-07-21 03:00:00,True,True,True,True,False,False,Interviewed
+APP00915,CAND00915,BrightWorks,Product Analyst,Bengaluru,Referral,2026-07-21 04:00:00,False,False,False,False,False,False,Applied
+APP00598,CAND00598,InsightHub,Business Analyst,Hyderabad,Job Portal,2026-07-21 05:00:00,True,False,False,False,False,False,Screened
+APP00519,CAND00519,InsightHub,BI Analyst,Bengaluru,Campus,2026-07-21 06:00:00,True,False,False,False,False,False,Screened
+APP00553,CAND00553,DataNova,BI Analyst,Delhi,Referral,2026-07-21 07:00:00,False,False,False,False,False,False,Applied
+APP00201,CAND00201,NextGen Labs,Product Analyst,Delhi,Referral,2026-07-21 08:00:00,True,False,False,False,False,False,Screened
+APP00894,CAND00894,BrightWorks,Business Analyst,Delhi,Company Website,2026-07-21 09:00:00,True,True,True,True,False,False,Interviewed
+APP00471,CAND00471,NextGen Labs,Data Analyst,Gurugram,Job Portal,2026-07-21 10:00:00,False,False,False,False,False,False,Applied
+APP00052,CAND00052,Alpha Tech,Marketing Analyst,Gurugram,LinkedIn,2026-07-21 11:00:00,False,False,False,False,False,False,Applied
+APP00258,CAND00258,BrightWorks,Product Analyst,Mumbai,Referral,2026-07-21 12:00:00,True,True,True,False,False,False,Shortlisted
+APP00643,CAND00643,NextGen Labs,BI Analyst,Delhi,Job Portal,2026-07-21 13:00:00,True,True,True,False,False,False,Shortlisted
+APP00299,CAND00299,InsightHub,Product Analyst,Gurugram,Referral,2026-07-21 14:00:00,True,True,True,True,False,False,Interviewed
+APP00172,CAND00172,InsightHub,BI Analyst,Delhi,Job Portal,2026-07-21 15:00:00,True,True,True,True,False,False,Interviewed
+APP00265,CAND00265,BrightWorks,Business Analyst,Bengaluru,LinkedIn,2026-07-21 16:00:00,True,True,True,True,True,True,Hired
+APP00502,CAND00502,Alpha Tech,Marketing Analyst,Gurugram,Referral,2026-07-21 17:00:00,True,True,True,True,True,True,Hired
+APP00918,CAND00918,InsightHub,Marketing Analyst,Hyderabad,Campus,2026-07-21 19:00:00,False,False,False,False,False,False,Applied
+APP00775,CAND00775,DataNova,BI Analyst,Delhi,LinkedIn,2026-07-21 20:00:00,False,False,False,False,False,False,Applied
+APP00022,CAND00022,BrightWorks,Product Analyst,Hyderabad,Job Portal,2026-07-21 21:00:00,True,False,False,False,False,False,Screened
+APP00574,CAND00574,DataNova,Product Analyst,Pune,Referral,2026-07-21 22:00:00,False,False,False,False,False,False,Applied
+APP00933,CAND00933,Alpha Tech,BI Analyst,Mumbai,Campus,2026-07-21 23:00:00,True,False,False,False,False,False,Screened
+APP00420,CAND00420,DataNova,Marketing Analyst,Hyderabad,LinkedIn,2026-07-22 01:00:00,True,True,False,False,False,False,Shortlisted
+APP00954,CAND00954,InsightHub,BI Analyst,Bengaluru,Campus,2026-07-22 02:00:00,True,True,True,False,False,False,Shortlisted
+APP00777,CAND00777,BrightWorks,Product Analyst,Pune,Job Portal,2026-07-22 03:00:00,True,True,False,True,False,False,Interviewed
+APP00150,CAND00150,BrightWorks,Data Analyst,Mumbai,Job Portal,2026-07-22 04:00:00,True,True,True,True,False,False,Interviewed
+APP00361,CAND00361,InsightHub,Data Analyst,Pune,Company Website,2026-07-22 05:00:00,True,True,True,True,False,False,Interviewed
+APP00714,CAND00714,NextGen Labs,Business Analyst,Bengaluru,Company Website,2026-07-22 06:00:00,True,False,False,False,False,False,Screened
+APP00335,CAND00335,NextGen Labs,Data Analyst,Hyderabad,Job Portal,2026-07-22 07:00:00,True,False,False,False,False,False,Screened
+APP00464,CAND00464,InsightHub,Marketing Analyst,Pune,Referral,2026-07-22 08:00:00,True,True,True,False,False,False,Shortlisted
+APP00865,CAND00865,InsightHub,Business Analyst,Pune,Company Website,2026-07-22 09:00:00,True,True,True,True,False,False,Interviewed
+APP00762,CAND00762,NextGen Labs,Data Analyst,Pune,Company Website,2026-07-22 10:00:00,False,False,False,False,False,False,Applied
+APP00613,CAND00613,NextGen Labs,Marketing Analyst,Gurugram,Referral,2026-07-22 11:00:00,True,True,True,True,False,False,Interviewed
+APP00818,CAND00818,DataNova,BI Analyst,Delhi,Company Website,2026-07-22 12:00:00,False,False,False,False,False,False,Applied
+APP00988,CAND00988,NextGen Labs,Data Analyst,Delhi,Company Website,2026-07-22 13:00:00,False,False,False,False,False,False,Applied
+APP00670,CAND00670,InsightHub,BI Analyst,Hyderabad,Job Portal,2026-07-22 14:00:00,True,False,False,False,False,False,Screened
+APP00882,CAND00882,BrightWorks,Business Analyst,Delhi,Referral,2026-07-22 15:00:00,False,False,False,False,False,False,Applied
+APP00037,CAND00037,NextGen Labs,Business Analyst,Gurugram,Company Website,2026-07-22 16:00:00,False,False,False,False,False,False,Applied
+APP00281,CAND00281,BrightWorks,Data Analyst,Mumbai,Campus,2026-07-22 17:00:00,False,False,False,False,False,False,Applied
+APP00642,CAND00642,NextGen Labs,Business Analyst,Gurugram,Company Website,2026-07-22 18:00:00,False,False,False,False,False,False,Applied
+APP00076,CAND00076,DataNova,Data Analyst,Mumbai,LinkedIn,2026-07-22 19:00:00,True,False,False,False,False,False,Screened
+APP00573,CAND00573,BrightWorks,Marketing Analyst,Hyderabad,Company Website,2026-07-22 20:00:00,False,False,False,False,False,False,Applied
+APP00381,CAND00381,BrightWorks,Data Analyst,Delhi,Job Portal,2026-07-22 21:00:00,True,True,True,True,True,True,Hired
+APP00354,CAND00354,InsightHub,Business Analyst,Hyderabad,Job Portal,2026-07-22 22:00:00,True,True,True,False,False,False,Shortlisted
+APP00883,CAND00883,BrightWorks,BI Analyst,Delhi,Job Portal,2026-07-22 23:00:00,True,False,False,False,False,False,Screened
+APP00579,CAND00579,NextGen Labs,Product Analyst,Gurugram,Company Website,2026-07-23 01:00:00,True,True,True,True,False,False,Interviewed
+APP00010,CAND00010,NextGen Labs,Product Analyst,Hyderabad,LinkedIn,2026-07-23 02:00:00,True,True,True,False,False,False,Shortlisted
+APP00971,CAND00971,BrightWorks,Business Analyst,Pune,Referral,2026-07-23 03:00:00,False,False,False,False,False,False,Applied
+APP00371,CAND00371,BrightWorks,Business Analyst,Delhi,Job Portal,2026-07-23 04:00:00,True,True,True,True,False,False,Interviewed
+APP00989,CAND00989,NextGen Labs,Data Analyst,Pune,Job Portal,2026-07-23 05:00:00,False,False,False,False,False,False,Applied
+APP00517,CAND00517,InsightHub,Marketing Analyst,Hyderabad,Company Website,2026-07-23 06:00:00,False,False,False,False,False,False,Applied
+APP00436,CAND00436,DataNova,Marketing Analyst,Bengaluru,LinkedIn,2026-07-23 07:00:00,True,True,True,True,True,True,Hired
+APP00756,CAND00756,BrightWorks,Marketing Analyst,Pune,LinkedIn,2026-07-23 08:00:00,True,False,False,False,False,False,Screened
+APP00682,CAND00682,InsightHub,Product Analyst,Delhi,Job Portal,2026-07-23 09:00:00,False,False,False,False,False,False,Applied
+APP00456,CAND00456,Alpha Tech,Marketing Analyst,Mumbai,Company Website,2026-07-23 10:00:00,True,True,True,True,False,False,Interviewed
+APP00829,CAND00829,InsightHub,BI Analyst,Gurugram,LinkedIn,2026-07-23 11:00:00,True,True,True,True,True,True,Hired
+APP00999,CAND00999,Alpha Tech,Marketing Analyst,Gurugram,Campus,2026-07-23 13:00:00,True,True,True,False,False,False,Shortlisted
+APP00256,CAND00256,Alpha Tech,Marketing Analyst,Gurugram,Referral,2026-07-23 14:00:00,False,False,False,False,False,False,Applied
+APP00227,CAND00227,BrightWorks,Business Analyst,Gurugram,Campus,2026-07-23 15:00:00,True,False,False,False,False,False,Screened
+APP00492,CAND00492,InsightHub,Product Analyst,Gurugram,Referral,2026-07-23 16:00:00,True,True,True,True,False,False,Interviewed
+APP00532,CAND00532,BrightWorks,Product Analyst,Mumbai,Campus,2026-07-23 17:00:00,True,False,False,False,False,False,Screened
+APP00326,CAND00326,BrightWorks,Marketing Analyst,Bengaluru,LinkedIn,2026-07-23 18:00:00,True,True,True,False,False,False,Shortlisted
+APP00409,CAND00409,Alpha Tech,BI Analyst,Pune,Campus,2026-07-23 19:00:00,True,True,True,False,False,False,Shortlisted
+APP00137,CAND00137,BrightWorks,BI Analyst,Delhi,Company Website,2026-07-23 20:00:00,True,True,True,False,False,False,Shortlisted
+APP00797,CAND00797,BrightWorks,BI Analyst,Gurugram,Campus,2026-07-23 21:00:00,False,False,False,False,False,False,Applied
+APP00413,CAND00413,NextGen Labs,Business Analyst,Hyderabad,Campus,2026-07-23 22:00:00,True,True,True,True,False,False,Interviewed
+APP00489,CAND00489,Alpha Tech,BI Analyst,Gurugram,Campus,2026-07-23 23:00:00,True,False,False,False,False,False,Screened
+APP00395,CAND00395,Alpha Tech,Marketing Analyst,Gurugram,Company Website,2026-07-24 00:00:00,False,False,False,False,False,False,Applied
+APP00039,CAND00039,NextGen Labs,BI Analyst,Bengaluru,Referral,2026-07-24 01:00:00,True,False,False,False,False,False,Screened
+APP00522,CAND00522,BrightWorks,Business Analyst,Pune,Company Website,2026-07-24 02:00:00,False,False,False,False,False,False,Applied
+APP00545,CAND00545,InsightHub,Data Analyst,Hyderabad,Referral,2026-07-24 03:00:00,False,False,False,False,False,False,Applied
+APP00973,CAND00973,Alpha Tech,Marketing Analyst,Bengaluru,LinkedIn,2026-07-24 04:00:00,True,False,False,False,False,False,Screened
+APP00302,CAND00302,NextGen Labs,Marketing Analyst,Delhi,Referral,2026-07-24 05:00:00,False,False,False,False,False,False,Applied
+APP00071,CAND00071,DataNova,Data Analyst,Bengaluru,LinkedIn,2026-07-24 06:00:00,True,False,False,False,False,False,Screened
+APP00940,CAND00940,NextGen Labs,BI Analyst,Hyderabad,Referral,2026-07-24 08:00:00,True,True,False,False,False,False,Shortlisted
+APP00733,CAND00733,Alpha Tech,Data Analyst,Gurugram,Referral,2026-07-24 09:00:00,False,False,False,False,False,False,Applied
+APP00735,CAND00735,NextGen Labs,Product Analyst,Bengaluru,Company Website,2026-07-24 10:00:00,True,False,False,False,False,False,Screened
+APP00634,CAND00634,DataNova,Business Analyst,Mumbai,Referral,2026-07-24 11:00:00,True,True,True,False,False,False,Shortlisted
+APP00219,CAND00219,NextGen Labs,Data Analyst,Hyderabad,Referral,2026-07-24 12:00:00,True,True,True,True,False,False,Interviewed
+APP00033,CAND00033,DataNova,Product Analyst,Mumbai,Job Portal,2026-07-24 13:00:00,False,False,False,False,False,False,Applied
+APP00723,CAND00723,Alpha Tech,Business Analyst,Pune,Job Portal,2026-07-24 14:00:00,True,True,True,True,False,False,Interviewed
+APP00623,CAND00623,InsightHub,Product Analyst,Mumbai,Company Website,2026-07-24 15:00:00,True,False,False,False,False,False,Screened
+APP00382,CAND00382,Alpha Tech,Business Analyst,Delhi,Referral,2026-07-24 16:00:00,True,True,True,True,False,False,Interviewed
+APP00638,CAND00638,InsightHub,Business Analyst,Delhi,Job Portal,2026-07-24 17:00:00,False,False,False,False,False,False,Applied
+APP00910,CAND00910,NextGen Labs,Business Analyst,Delhi,Company Website,2026-07-24 18:00:00,False,False,False,False,False,False,Applied
+APP00953,CAND00953,Alpha Tech,Business Analyst,Hyderabad,Job Portal,2026-07-24 19:00:00,True,False,False,False,False,False,Screened
+APP00789,CAND00789,Alpha Tech,Product Analyst,Delhi,Company Website,2026-07-24 20:00:00,True,True,True,True,False,False,Interviewed
+APP00956,CAND00956,InsightHub,BI Analyst,Gurugram,Company Website,2026-07-24 21:00:00,True,True,True,True,False,False,Interviewed
+APP00825,CAND00825,InsightHub,Business Analyst,Bengaluru,Referral,2026-07-24 22:00:00,True,True,True,False,False,False,Shortlisted
+APP00897,CAND00897,NextGen Labs,BI Analyst,Bengaluru,Job Portal,2026-07-24 23:00:00,True,True,True,True,False,False,Interviewed
+APP00508,CAND00508,NextGen Labs,Product Analyst,Bengaluru,LinkedIn,2026-07-25 00:00:00,True,True,True,False,False,False,Shortlisted
+APP00425,CAND00425,InsightHub,BI Analyst,Gurugram,Job Portal,2026-07-25 01:00:00,True,True,True,True,False,False,Interviewed
+APP00393,CAND00393,DataNova,Product Analyst,Bengaluru,Company Website,2026-07-25 02:00:00,True,False,False,False,False,False,Screened
+APP00320,CAND00320,BrightWorks,Product Analyst,Gurugram,Job Portal,2026-07-25 03:00:00,True,True,True,True,True,True,Hired
+APP00195,CAND00195,NextGen Labs,BI Analyst,Pune,Company Website,2026-07-25 04:00:00,True,False,False,False,False,False,Screened
+APP00391,CAND00391,InsightHub,Business Analyst,Delhi,Campus,2026-07-25 05:00:00,True,True,False,True,True,True,Hired
+APP00909,CAND00909,BrightWorks,Product Analyst,Mumbai,Job Portal,2026-07-25 06:00:00,True,True,True,True,False,False,Interviewed
+APP00631,CAND00631,BrightWorks,Product Analyst,Delhi,LinkedIn,2026-07-25 07:00:00,True,False,False,False,False,False,Screened
+APP00557,CAND00557,BrightWorks,Marketing Analyst,Bengaluru,Job Portal,2026-07-25 08:00:00,True,False,False,False,False,False,Screened
+APP00839,CAND00839,BrightWorks,Marketing Analyst,Hyderabad,Referral,2026-07-25 09:00:00,True,False,False,False,False,False,Screened
+APP00681,CAND00681,DataNova,Data Analyst,Gurugram,LinkedIn,2026-07-25 10:00:00,True,True,True,True,False,False,Interviewed
+APP00173,CAND00173,InsightHub,Data Analyst,Bengaluru,Company Website,2026-07-25 11:00:00,True,True,True,False,False,False,Shortlisted
+APP00237,CAND00237,NextGen Labs,Business Analyst,Delhi,Job Portal,2026-07-25 12:00:00,False,False,False,False,False,False,Applied
+APP00070,CAND00070,Alpha Tech,Marketing Analyst,Mumbai,Campus,2026-07-25 13:00:00,True,True,True,False,False,False,Shortlisted
+APP00819,CAND00819,NextGen Labs,Marketing Analyst,Mumbai,Job Portal,2026-07-25 14:00:00,True,True,True,False,False,False,Shortlisted
+APP00466,CAND00466,DataNova,Marketing Analyst,Gurugram,Company Website,2026-07-25 15:00:00,True,False,False,False,False,False,Screened
+APP00867,CAND00867,Alpha Tech,Data Analyst,Mumbai,Job Portal,2026-07-25 16:00:00,True,True,True,True,False,False,Interviewed
+APP00474,CAND00474,NextGen Labs,Data Analyst,Mumbai,Campus,2026-07-25 17:00:00,True,True,False,False,False,False,Shortlisted
+APP00198,CAND00198,Alpha Tech,Product Analyst,Gurugram,Campus,2026-07-25 18:00:00,True,True,True,True,False,False,Interviewed
+APP00463,CAND00463,BrightWorks,Business Analyst,Pune,LinkedIn,2026-07-25 19:00:00,True,True,True,True,False,False,Interviewed
+APP00135,CAND00135,NextGen Labs,Product Analyst,Gurugram,Campus,2026-07-25 20:00:00,True,True,True,True,False,False,Interviewed
+APP00410,CAND00410,BrightWorks,BI Analyst,Gurugram,Job Portal,2026-07-25 22:00:00,True,False,False,False,False,False,Screened
+APP00284,CAND00284,InsightHub,BI Analyst,Gurugram,Job Portal,2026-07-25 23:00:00,True,True,True,True,True,True,Hired
+APP00432,CAND00432,InsightHub,Marketing Analyst,Pune,LinkedIn,2026-07-26 00:00:00,True,False,False,False,False,False,Screened
+APP00476,CAND00476,InsightHub,Business Analyst,Mumbai,Campus,2026-07-26 01:00:00,True,True,False,True,False,False,Interviewed
+APP00310,CAND00310,DataNova,BI Analyst,Hyderabad,Job Portal,2026-07-26 02:00:00,True,True,True,True,False,False,Interviewed
+APP00114,CAND00114,Alpha Tech,Data Analyst,Pune,LinkedIn,2026-07-26 03:00:00,True,True,True,True,False,False,Interviewed
+APP00484,CAND00484,InsightHub,BI Analyst,Pune,Referral,2026-07-26 04:00:00,True,False,False,False,False,False,Screened
+APP00875,CAND00875,DataNova,Marketing Analyst,Mumbai,Job Portal,2026-07-26 05:00:00,True,True,True,True,False,False,Interviewed
+APP00652,CAND00652,DataNova,BI Analyst,Pune,Referral,2026-07-26 06:00:00,True,True,True,True,True,True,Hired
+APP00821,CAND00821,InsightHub,Business Analyst,Gurugram,LinkedIn,2026-07-26 07:00:00,True,True,True,True,False,False,Interviewed
+APP00518,CAND00518,NextGen Labs,Product Analyst,Bengaluru,LinkedIn,2026-07-26 08:00:00,True,True,True,False,False,False,Shortlisted
+APP00248,CAND00248,DataNova,Business Analyst,Pune,Campus,2026-07-26 09:00:00,True,True,True,False,False,False,Shortlisted
+APP00472,CAND00472,InsightHub,Marketing Analyst,Hyderabad,Campus,2026-07-26 10:00:00,True,True,True,False,False,False,Shortlisted
+APP00268,CAND00268,InsightHub,Data Analyst,Pune,LinkedIn,2026-07-26 11:00:00,False,False,False,False,False,False,Applied
+APP00196,CAND00196,BrightWorks,Business Analyst,Bengaluru,Company Website,2026-07-26 12:00:00,True,False,False,False,False,False,Screened
+APP00102,CAND00102,NextGen Labs,Data Analyst,Pune,Referral,2026-07-26 13:00:00,True,True,True,True,False,False,Interviewed
+APP00259,CAND00259,DataNova,Data Analyst,Delhi,Referral,2026-07-26 14:00:00,True,False,False,False,False,False,Screened
+APP00881,CAND00881,DataNova,BI Analyst,Gurugram,Job Portal,2026-07-26 15:00:00,True,False,False,False,False,False,Screened
+APP00477,CAND00477,NextGen Labs,Data Analyst,Mumbai,Job Portal,2026-07-26 16:00:00,True,False,False,False,False,False,Screened
+APP00511,CAND00511,Alpha Tech,Marketing Analyst,Pune,Referral,2026-07-26 17:00:00,True,False,False,False,False,False,Screened
+APP00948,CAND00948,InsightHub,BI Analyst,Gurugram,Campus,2026-07-26 18:00:00,False,False,False,False,False,False,Applied
+APP00271,CAND00271,Alpha Tech,Data Analyst,Gurugram,LinkedIn,2026-07-26 19:00:00,False,False,False,False,False,False,Applied
+APP00042,CAND00042,DataNova,Marketing Analyst,Delhi,Company Website,2026-07-26 20:00:00,True,True,False,True,False,False,Interviewed
+APP00842,CAND00842,BrightWorks,Product Analyst,Delhi,Referral,2026-07-26 21:00:00,True,True,True,True,True,True,Hired
+APP00080,CAND00080,InsightHub,Business Analyst,Delhi,Job Portal,2026-07-26 22:00:00,True,True,True,True,False,False,Interviewed
+APP00132,CAND00132,DataNova,Business Analyst,Gurugram,Job Portal,2026-07-26 23:00:00,True,True,True,True,False,False,Interviewed
+APP00599,CAND00599,NextGen Labs,BI Analyst,Delhi,Job Portal,2026-07-27 00:00:00,True,False,False,False,False,False,Screened
+APP00230,CAND00230,InsightHub,Marketing Analyst,Pune,Referral,2026-07-27 01:00:00,True,False,False,False,False,False,Screened
+APP00364,CAND00364,InsightHub,BI Analyst,Pune,Referral,2026-07-27 02:00:00,True,True,True,True,False,False,Interviewed
+APP00673,CAND00673,Alpha Tech,Business Analyst,Hyderabad,Job Portal,2026-07-27 03:00:00,True,True,True,True,False,False,Interviewed
+APP00095,CAND00095,NextGen Labs,BI Analyst,Delhi,LinkedIn,2026-07-27 04:00:00,True,True,True,False,False,False,Shortlisted
+APP00655,CAND00655,NextGen Labs,Marketing Analyst,Delhi,Company Website,2026-07-27 06:00:00,True,True,True,True,False,False,Interviewed
+APP00190,CAND00190,InsightHub,Data Analyst,Bengaluru,Job Portal,2026-07-27 08:00:00,False,False,False,False,False,False,Applied
+APP00968,CAND00968,BrightWorks,BI Analyst,Bengaluru,Job Portal,2026-07-27 10:00:00,False,False,False,False,False,False,Applied
+APP00174,CAND00174,InsightHub,Business Analyst,Pune,Job Portal,2026-07-27 11:00:00,False,False,False,False,False,False,Applied
+APP00515,CAND00515,BrightWorks,Marketing Analyst,Hyderabad,Job Portal,2026-07-27 12:00:00,True,False,False,False,False,False,Screened
+APP00457,CAND00457,DataNova,Product Analyst,Hyderabad,Job Portal,2026-07-27 14:00:00,True,True,True,True,False,False,Interviewed
+APP00442,CAND00442,DataNova,Data Analyst,Hyderabad,Campus,2026-07-27 16:00:00,True,True,True,False,False,False,Shortlisted
+APP00450,CAND00450,InsightHub,Marketing Analyst,Mumbai,Job Portal,2026-07-27 17:00:00,True,True,True,False,False,False,Shortlisted
+APP00689,CAND00689,DataNova,Business Analyst,Pune,LinkedIn,2026-07-27 18:00:00,False,False,False,False,False,False,Applied
+APP00955,CAND00955,InsightHub,BI Analyst,Mumbai,Company Website,2026-07-27 19:00:00,False,False,False,False,False,False,Applied
+APP00718,CAND00718,DataNova,Business Analyst,Pune,Campus,2026-07-27 20:00:00,True,True,True,True,False,False,Interviewed
+APP00431,CAND00431,DataNova,BI Analyst,Mumbai,Job Portal,2026-07-27 21:00:00,True,True,True,False,False,False,Shortlisted
+APP00576,CAND00576,Alpha Tech,Marketing Analyst,Bengaluru,Campus,2026-07-27 22:00:00,True,False,False,False,False,False,Screened
+APP00990,CAND00990,NextGen Labs,Business Analyst,Gurugram,LinkedIn,2026-07-27 23:00:00,False,False,False,False,False,False,Applied
+APP00217,CAND00217,BrightWorks,BI Analyst,Mumbai,Company Website,2026-07-28 00:00:00,True,False,False,False,False,False,Screened
+APP00872,CAND00872,NextGen Labs,Marketing Analyst,Gurugram,Job Portal,2026-07-28 01:00:00,True,False,False,False,False,False,Screened
+APP00742,CAND00742,DataNova,Data Analyst,Gurugram,Company Website,2026-07-28 02:00:00,True,False,False,False,False,False,Screened
+APP00793,CAND00793,InsightHub,Business Analyst,Mumbai,Company Website,2026-07-28 03:00:00,True,False,False,False,False,False,Screened
+APP00167,CAND00167,Alpha Tech,BI Analyst,Gurugram,Company Website,2026-07-28 04:00:00,True,True,True,False,False,False,Shortlisted
+APP00703,CAND00703,InsightHub,Data Analyst,Mumbai,Company Website,2026-07-28 05:00:00,True,True,True,True,False,False,Interviewed
+APP00783,CAND00783,BrightWorks,Business Analyst,Gurugram,Job Portal,2026-07-28 06:00:00,True,True,False,True,True,True,Hired
+APP00612,CAND00612,Alpha Tech,Data Analyst,Bengaluru,LinkedIn,2026-07-28 07:00:00,True,False,False,False,False,False,Screened
+APP00007,CAND00007,DataNova,Business Analyst,Pune,Job Portal,2026-07-28 08:00:00,True,False,False,False,False,False,Screened
+APP00996,CAND00996,NextGen Labs,Business Analyst,Pune,Job Portal,2026-07-28 09:00:00,True,True,True,False,False,False,Shortlisted
+APP00679,CAND00679,Alpha Tech,Marketing Analyst,Delhi,Campus,2026-07-28 11:00:00,True,True,True,True,True,True,Hired
+APP00734,CAND00734,InsightHub,BI Analyst,Hyderabad,Referral,2026-07-28 12:00:00,True,False,False,False,False,False,Screened
+APP00394,CAND00394,Alpha Tech,Data Analyst,Gurugram,LinkedIn,2026-07-28 13:00:00,False,False,False,False,False,False,Applied
+APP00107,CAND00107,Alpha Tech,BI Analyst,Mumbai,Company Website,2026-07-28 14:00:00,True,True,True,True,True,True,Hired
+APP00016,CAND00016,DataNova,Data Analyst,Delhi,Job Portal,2026-07-28 15:00:00,False,False,False,False,False,False,Applied
+APP00746,CAND00746,NextGen Labs,BI Analyst,Pune,Campus,2026-07-28 16:00:00,True,False,False,False,False,False,Screened
+APP00583,CAND00583,BrightWorks,Business Analyst,Delhi,Company Website,2026-07-28 17:00:00,False,False,False,False,False,False,Applied
+APP00433,CAND00433,InsightHub,BI Analyst,Delhi,Referral,2026-07-28 18:00:00,False,False,False,False,False,False,Applied
+APP00151,CAND00151,NextGen Labs,Product Analyst,Delhi,Campus,2026-07-28 20:00:00,True,True,True,True,True,False,Offer
+APP00468,CAND00468,DataNova,BI Analyst,Bengaluru,LinkedIn,2026-07-28 21:00:00,False,False,False,False,False,False,Applied
+APP00937,CAND00937,Alpha Tech,Product Analyst,Pune,Job Portal,2026-07-28 22:00:00,True,True,True,False,False,False,Shortlisted
+APP00585,CAND00585,DataNova,Business Analyst,Hyderabad,Referral,2026-07-28 23:00:00,False,False,False,False,False,False,Applied
+APP00414,CAND00414,BrightWorks,Business Analyst,Mumbai,Referral,2026-07-29 00:00:00,True,True,True,True,False,False,Interviewed
+APP00820,CAND00820,DataNova,Marketing Analyst,Gurugram,Company Website,2026-07-29 02:00:00,True,False,False,False,False,False,Screened
+APP00630,CAND00630,DataNova,Data Analyst,Gurugram,Job Portal,2026-07-29 03:00:00,True,False,False,False,False,False,Screened
+APP00826,CAND00826,Alpha Tech,BI Analyst,Bengaluru,Campus,2026-07-29 04:00:00,True,False,False,False,False,False,Screened
+APP00849,CAND00849,Alpha Tech,Business Analyst,Mumbai,Company Website,2026-07-29 05:00:00,True,True,True,True,True,True,Hired
+APP00031,CAND00031,Alpha Tech,Business Analyst,Hyderabad,Referral,2026-07-29 06:00:00,True,True,True,True,False,False,Interviewed
+APP00036,CAND00036,InsightHub,BI Analyst,Pune,LinkedIn,2026-07-29 07:00:00,False,False,False,False,False,False,Applied
+APP00533,CAND00533,DataNova,BI Analyst,Hyderabad,Campus,2026-07-29 08:00:00,True,False,False,False,False,False,Screened
+APP00888,CAND00888,NextGen Labs,BI Analyst,Gurugram,Job Portal,2026-07-29 09:00:00,True,False,False,False,False,False,Screened
+APP00750,CAND00750,InsightHub,BI Analyst,Mumbai,Referral,2026-07-29 10:00:00,True,True,True,True,True,True,Hired
+APP00617,CAND00617,NextGen Labs,Marketing Analyst,Pune,Job Portal,2026-07-29 11:00:00,False,False,False,False,False,False,Applied
+APP00977,CAND00977,DataNova,BI Analyst,Gurugram,Referral,2026-07-29 12:00:00,True,True,True,False,False,False,Shortlisted
+APP00273,CAND00273,Alpha Tech,BI Analyst,Gurugram,LinkedIn,2026-07-29 13:00:00,True,False,False,False,False,False,Screened
+APP00582,CAND00582,NextGen Labs,Data Analyst,Hyderabad,Campus,2026-07-29 14:00:00,False,False,False,False,False,False,Applied
+APP00814,CAND00814,Alpha Tech,BI Analyst,Bengaluru,Campus,2026-07-29 15:00:00,False,False,False,False,False,False,Applied
+APP00365,CAND00365,BrightWorks,Marketing Analyst,Delhi,Campus,2026-07-29 16:00:00,True,False,False,False,False,False,Screened
+APP00815,CAND00815,BrightWorks,Marketing Analyst,Hyderabad,LinkedIn,2026-07-29 17:00:00,False,False,False,False,False,False,Applied
+APP00072,CAND00072,BrightWorks,Business Analyst,Delhi,Job Portal,2026-07-29 18:00:00,True,True,True,True,False,False,Interviewed
+APP00434,CAND00434,Alpha Tech,Marketing Analyst,Bengaluru,Job Portal,2026-07-29 19:00:00,True,False,False,False,False,False,Screened
+APP00962,CAND00962,BrightWorks,Product Analyst,Bengaluru,Referral,2026-07-29 21:00:00,True,True,True,False,False,False,Shortlisted
+APP00767,CAND00767,BrightWorks,Product Analyst,Gurugram,LinkedIn,2026-07-29 22:00:00,True,True,True,True,False,False,Interviewed
+APP00113,CAND00113,DataNova,Business Analyst,Hyderabad,Campus,2026-07-29 23:00:00,True,False,False,False,False,False,Screened
+APP00280,CAND00280,InsightHub,Product Analyst,Pune,LinkedIn,2026-07-30 00:00:00,True,False,False,False,False,False,Screened
+APP00605,CAND00605,DataNova,Data Analyst,Mumbai,Job Portal,2026-07-30 01:00:00,False,False,False,False,False,False,Applied
+APP00810,CAND00810,InsightHub,Marketing Analyst,Hyderabad,Job Portal,2026-07-30 02:00:00,True,True,True,False,False,False,Shortlisted
+APP00228,CAND00228,NextGen Labs,Data Analyst,Bengaluru,Company Website,2026-07-30 03:00:00,True,True,True,False,False,False,Shortlisted
+APP00045,CAND00045,DataNova,BI Analyst,Bengaluru,Job Portal,2026-07-30 04:00:00,True,False,False,False,False,False,Screened
+APP00700,CAND00700,NextGen Labs,Marketing Analyst,Pune,Company Website,2026-07-30 05:00:00,True,True,True,True,False,False,Interviewed
+APP00496,CAND00496,InsightHub,Marketing Analyst,Mumbai,Company Website,2026-07-30 06:00:00,True,True,True,True,True,False,Offer
+APP00913,CAND00913,DataNova,Product Analyst,Hyderabad,Referral,2026-07-30 07:00:00,True,True,True,True,True,True,Hired
+APP00624,CAND00624,NextGen Labs,Marketing Analyst,Hyderabad,Company Website,2026-07-30 08:00:00,False,False,False,False,False,False,Applied
+APP00535,CAND00535,Alpha Tech,Data Analyst,Delhi,LinkedIn,2026-07-30 09:00:00,True,True,True,True,False,False,Interviewed
+APP00024,CAND00024,InsightHub,Product Analyst,Bengaluru,Company Website,2026-07-30 10:00:00,True,False,False,False,False,False,Screened
+APP00647,CAND00647,DataNova,Business Analyst,Hyderabad,Referral,2026-07-30 11:00:00,True,False,False,False,False,False,Screened
+APP00760,CAND00760,BrightWorks,Marketing Analyst,Gurugram,LinkedIn,2026-07-30 12:00:00,True,False,False,False,False,False,Screened
+APP00162,CAND00162,NextGen Labs,Marketing Analyst,Hyderabad,Referral,2026-07-30 13:00:00,True,True,True,True,False,False,Interviewed
+APP00645,CAND00645,Alpha Tech,Marketing Analyst,Hyderabad,Job Portal,2026-07-30 14:00:00,False,False,False,False,False,False,Applied
+APP00112,CAND00112,Alpha Tech,Product Analyst,Gurugram,Job Portal,2026-07-30 15:00:00,True,False,False,False,False,False,Screened
+APP00448,CAND00448,BrightWorks,Business Analyst,Hyderabad,LinkedIn,2026-07-30 16:00:00,True,True,True,True,False,False,Interviewed
+APP00662,CAND00662,Alpha Tech,BI Analyst,Mumbai,Campus,2026-07-30 17:00:00,True,False,False,False,False,False,Screened
+APP00727,CAND00727,NextGen Labs,Data Analyst,Hyderabad,Job Portal,2026-07-30 18:00:00,False,False,False,False,False,False,Applied
+APP00987,CAND00987,Alpha Tech,Data Analyst,Hyderabad,Referral,2026-07-30 19:00:00,True,False,False,False,False,False,Screened
+APP00590,CAND00590,InsightHub,Data Analyst,Mumbai,Job Portal,2026-07-30 20:00:00,True,True,True,True,True,False,Offer
+APP00932,CAND00932,InsightHub,Business Analyst,Gurugram,LinkedIn,2026-07-30 22:00:00,False,False,False,False,False,False,Applied
+APP00040,CAND00040,InsightHub,Product Analyst,Gurugram,Company Website,2026-07-30 23:00:00,False,False,False,False,False,False,Applied
+APP00917,CAND00917,BrightWorks,Data Analyst,Pune,Job Portal,2026-07-31 00:00:00,True,False,False,False,False,False,Screened
+APP00676,CAND00676,InsightHub,Business Analyst,Pune,Campus,2026-07-31 01:00:00,True,True,False,False,False,False,Shortlisted
+APP00460,CAND00460,BrightWorks,BI Analyst,Hyderabad,Job Portal,2026-07-31 02:00:00,True,False,False,False,False,False,Screened
+APP00667,CAND00667,DataNova,BI Analyst,Gurugram,Job Portal,2026-07-31 03:00:00,False,False,False,False,False,False,Applied
+APP00486,CAND00486,DataNova,Data Analyst,Mumbai,Campus,2026-07-31 04:00:00,True,True,True,False,False,False,Shortlisted
+APP00439,CAND00439,BrightWorks,Business Analyst,Delhi,LinkedIn,2026-07-31 05:00:00,True,False,False,False,False,False,Screened
+APP00900,CAND00900,Alpha Tech,Marketing Analyst,Hyderabad,Job Portal,2026-07-31 06:00:00,True,False,False,False,False,False,Screened
+APP00229,CAND00229,Alpha Tech,Business Analyst,Gurugram,Campus,2026-07-31 07:00:00,True,False,False,False,False,False,Screened
+APP00244,CAND00244,Alpha Tech,Data Analyst,Mumbai,Company Website,2026-07-31 08:00:00,True,False,False,False,False,False,Screened
+APP00866,CAND00866,NextGen Labs,Business Analyst,Gurugram,Referral,2026-07-31 09:00:00,True,False,False,False,False,False,Screened
+APP00253,CAND00253,Alpha Tech,Product Analyst,Hyderabad,LinkedIn,2026-07-31 10:00:00,True,True,True,True,False,False,Interviewed
+APP00981,CAND00981,NextGen Labs,BI Analyst,Delhi,Company Website,2026-07-31 11:00:00,True,True,True,True,True,True,Hired
+APP00966,CAND00966,NextGen Labs,BI Analyst,Pune,Company Website,2026-07-31 12:00:00,False,False,False,False,False,False,Applied
+APP00874,CAND00874,BrightWorks,BI Analyst,Mumbai,Company Website,2026-07-31 13:00:00,True,True,True,False,False,False,Shortlisted
+APP00342,CAND00342,DataNova,Data Analyst,Pune,Company Website,2026-07-31 14:00:00,False,False,False,False,False,False,Applied
+APP00991,CAND00991,InsightHub,Marketing Analyst,Hyderabad,LinkedIn,2026-07-31 15:00:00,True,True,True,True,True,True,Hired
+APP00543,CAND00543,Alpha Tech,Product Analyst,Gurugram,Job Portal,2026-07-31 16:00:00,True,False,False,False,False,False,Screened
+APP00117,CAND00117,NextGen Labs,Data Analyst,Bengaluru,LinkedIn,2026-07-31 17:00:00,True,True,False,False,False,False,Shortlisted
+APP00620,CAND00620,DataNova,Data Analyst,Mumbai,LinkedIn,2026-07-31 18:00:00,False,False,False,False,False,False,Applied
+APP00653,CAND00653,Alpha Tech,Product Analyst,Pune,Referral,2026-07-31 19:00:00,False,False,False,False,False,False,Applied
+APP00220,CAND00220,DataNova,Data Analyst,Mumbai,LinkedIn,2026-07-31 20:00:00,True,True,True,False,False,False,Shortlisted
+APP00266,CAND00266,NextGen Labs,BI Analyst,Bengaluru,LinkedIn,2026-07-31 21:00:00,True,True,True,False,False,False,Shortlisted
+APP00563,CAND00563,BrightWorks,Business Analyst,Delhi,Job Portal,2026-07-31 22:00:00,True,True,True,True,False,False,Interviewed
+APP00808,CAND00808,BrightWorks,Product Analyst,Pune,Campus,2026-07-31 23:00:00,True,False,False,False,False,False,Screened
+APP00967,CAND00967,InsightHub,Marketing Analyst,Gurugram,LinkedIn,2026-08-01 01:00:00,True,True,True,True,True,False,Offer
+APP00179,CAND00179,NextGen Labs,Product Analyst,Gurugram,Campus,2026-08-01 02:00:00,True,False,False,False,False,False,Screened
+APP00121,CAND00121,NextGen Labs,BI Analyst,Mumbai,LinkedIn,2026-08-01 03:00:00,True,False,False,False,False,False,Screened
+APP00376,CAND00376,DataNova,BI Analyst,Pune,Company Website,2026-08-01 04:00:00,True,True,True,False,False,False,Shortlisted
+APP00512,CAND00512,DataNova,BI Analyst,Delhi,Company Website,2026-08-01 05:00:00,True,False,False,False,False,False,Screened
+APP00986,CAND00986,Alpha Tech,Data Analyst,Gurugram,Company Website,2026-08-01 06:00:00,False,False,False,False,False,False,Applied
+APP00609,CAND00609,InsightHub,Data Analyst,Mumbai,Company Website,2026-08-01 07:00:00,True,True,True,True,True,False,Offer
+APP00097,CAND00097,NextGen Labs,Product Analyst,Delhi,Referral,2026-08-01 08:00:00,True,True,True,False,False,False,Shortlisted
+APP00747,CAND00747,InsightHub,Business Analyst,Hyderabad,Company Website,2026-08-01 09:00:00,True,False,False,False,False,False,Screened
+APP00384,CAND00384,DataNova,Business Analyst,Pune,LinkedIn,2026-08-01 10:00:00,False,False,False,False,False,False,Applied
+APP00082,CAND00082,DataNova,Business Analyst,Gurugram,Referral,2026-08-01 11:00:00,True,False,False,False,False,False,Screened
+APP00892,CAND00892,DataNova,BI Analyst,Mumbai,LinkedIn,2026-08-01 12:00:00,True,True,True,False,False,False,Shortlisted
+APP00178,CAND00178,InsightHub,Business Analyst,Mumbai,Company Website,2026-08-01 14:00:00,True,True,True,True,True,True,Hired
+APP00738,CAND00738,BrightWorks,Business Analyst,Delhi,LinkedIn,2026-08-01 15:00:00,True,True,True,True,False,False,Interviewed
+APP00441,CAND00441,InsightHub,Product Analyst,Mumbai,Job Portal,2026-08-01 16:00:00,False,False,False,False,False,False,Applied
+APP00143,CAND00143,Alpha Tech,Business Analyst,Pune,Company Website,2026-08-01 17:00:00,False,False,False,False,False,False,Applied
+APP00593,CAND00593,NextGen Labs,BI Analyst,Pune,Job Portal,2026-08-01 18:00:00,True,False,False,False,False,False,Screened
+APP00139,CAND00139,NextGen Labs,Data Analyst,Bengaluru,Company Website,2026-08-01 19:00:00,True,False,False,False,False,False,Screened
+APP00191,CAND00191,Alpha Tech,BI Analyst,Pune,Job Portal,2026-08-01 20:00:00,False,False,False,False,False,False,Applied
+APP00695,CAND00695,DataNova,BI Analyst,Hyderabad,Job Portal,2026-08-01 21:00:00,False,False,False,False,False,False,Applied
+APP00807,CAND00807,InsightHub,Marketing Analyst,Pune,Campus,2026-08-01 22:00:00,False,False,False,False,False,False,Applied
+APP00798,CAND00798,DataNova,Data Analyst,Mumbai,Referral,2026-08-01 23:00:00,True,False,False,False,False,False,Screened
+APP00827,CAND00827,Alpha Tech,Business Analyst,Bengaluru,Company Website,2026-08-02 00:00:00,True,True,True,True,False,False,Interviewed
+APP00142,CAND00142,BrightWorks,BI Analyst,Hyderabad,Job Portal,2026-08-02 01:00:00,True,False,False,False,False,False,Screened
+APP00316,CAND00316,Alpha Tech,Marketing Analyst,Pune,Referral,2026-08-02 02:00:00,False,False,False,False,False,False,Applied
+APP00098,CAND00098,DataNova,Marketing Analyst,Bengaluru,Company Website,2026-08-02 03:00:00,True,True,False,True,True,True,Hired
+APP00690,CAND00690,NextGen Labs,Marketing Analyst,Pune,Job Portal,2026-08-02 04:00:00,True,True,False,False,False,False,Shortlisted
+APP00544,CAND00544,NextGen Labs,Business Analyst,Mumbai,Referral,2026-08-02 05:00:00,True,False,False,False,False,False,Screened
+APP00131,CAND00131,DataNova,Product Analyst,Mumbai,Company Website,2026-08-02 06:00:00,True,True,True,False,False,False,Shortlisted
+APP00360,CAND00360,BrightWorks,Data Analyst,Bengaluru,Referral,2026-08-02 07:00:00,True,False,False,False,False,False,Screened
+APP00193,CAND00193,Alpha Tech,BI Analyst,Pune,Campus,2026-08-02 08:00:00,False,False,False,False,False,False,Applied
+APP00202,CAND00202,InsightHub,BI Analyst,Pune,Job Portal,2026-08-02 09:00:00,True,False,False,False,False,False,Screened
+APP00592,CAND00592,NextGen Labs,Data Analyst,Pune,Referral,2026-08-02 10:00:00,True,True,True,True,False,False,Interviewed
+APP00454,CAND00454,NextGen Labs,Business Analyst,Pune,Campus,2026-08-02 11:00:00,False,False,False,False,False,False,Applied
+APP00841,CAND00841,BrightWorks,Product Analyst,Mumbai,Job Portal,2026-08-02 12:00:00,False,False,False,False,False,False,Applied
+APP00147,CAND00147,InsightHub,Product Analyst,Mumbai,Referral,2026-08-02 13:00:00,True,False,False,False,False,False,Screened
+APP00421,CAND00421,NextGen Labs,Business Analyst,Bengaluru,LinkedIn,2026-08-02 15:00:00,False,False,False,False,False,False,Applied
+APP00176,CAND00176,BrightWorks,BI Analyst,Hyderabad,Job Portal,2026-08-02 16:00:00,True,False,False,False,False,False,Screened
+APP00169,CAND00169,Alpha Tech,BI Analyst,Delhi,Job Portal,2026-08-02 17:00:00,True,False,False,False,False,False,Screened
+APP00538,CAND00538,BrightWorks,Business Analyst,Hyderabad,Job Portal,2026-08-02 18:00:00,True,True,True,True,False,False,Interviewed
+APP00712,CAND00712,DataNova,BI Analyst,Delhi,Referral,2026-08-02 19:00:00,True,True,True,False,False,False,Shortlisted
+APP00898,CAND00898,DataNova,Product Analyst,Gurugram,Campus,2026-08-02 20:00:00,True,False,False,False,False,False,Screened
+APP00840,CAND00840,Alpha Tech,Business Analyst,Bengaluru,Referral,2026-08-02 21:00:00,False,False,False,False,False,False,Applied
+APP00860,CAND00860,DataNova,Product Analyst,Hyderabad,Job Portal,2026-08-02 22:00:00,True,True,True,True,True,True,Hired
+APP00380,CAND00380,Alpha Tech,Data Analyst,Gurugram,Job Portal,2026-08-02 23:00:00,True,True,True,True,False,False,Interviewed
+APP00377,CAND00377,BrightWorks,Product Analyst,Hyderabad,LinkedIn,2026-08-03 00:00:00,False,False,False,False,False,False,Applied
+APP00224,CAND00224,NextGen Labs,BI Analyst,Gurugram,Company Website,2026-08-03 02:00:00,True,True,True,True,False,False,Interviewed
+APP00488,CAND00488,DataNova,Marketing Analyst,Hyderabad,Job Portal,2026-08-03 03:00:00,False,False,False,False,False,False,Applied
+APP00370,CAND00370,InsightHub,Business Analyst,Hyderabad,Job Portal,2026-08-03 04:00:00,True,True,True,False,False,False,Shortlisted
+APP00008,CAND00008,BrightWorks,Data Analyst,Mumbai,LinkedIn,2026-08-03 05:00:00,True,True,True,False,False,False,Shortlisted
+APP00713,CAND00713,Alpha Tech,Marketing Analyst,Mumbai,Company Website,2026-08-03 06:00:00,False,False,False,False,False,False,Applied
+APP00443,CAND00443,NextGen Labs,Marketing Analyst,Delhi,Company Website,2026-08-03 07:00:00,True,False,False,False,False,False,Screened
+APP00654,CAND00654,BrightWorks,BI Analyst,Hyderabad,LinkedIn,2026-08-03 08:00:00,True,True,True,True,False,False,Interviewed
+APP00017,CAND00017,Alpha Tech,Business Analyst,Pune,Company Website,2026-08-03 09:00:00,False,False,False,False,False,False,Applied
+APP00043,CAND00043,NextGen Labs,Data Analyst,Delhi,Job Portal,2026-08-03 10:00:00,True,False,False,False,False,False,Screened
+APP00895,CAND00895,Alpha Tech,BI Analyst,Pune,Referral,2026-08-03 11:00:00,True,True,True,False,False,False,Shortlisted
+APP00398,CAND00398,Alpha Tech,Business Analyst,Delhi,Company Website,2026-08-03 12:00:00,True,True,True,True,False,False,Interviewed
+APP00853,CAND00853,DataNova,Business Analyst,Bengaluru,Job Portal,2026-08-03 13:00:00,True,False,False,False,False,False,Screened
+APP00921,CAND00921,InsightHub,Data Analyst,Delhi,LinkedIn,2026-08-03 14:00:00,False,False,False,False,False,False,Applied
+APP00559,CAND00559,NextGen Labs,BI Analyst,Mumbai,LinkedIn,2026-08-03 15:00:00,False,False,False,False,False,False,Applied
+APP00378,CAND00378,InsightHub,Product Analyst,Bengaluru,Job Portal,2026-08-03 16:00:00,True,False,False,False,False,False,Screened
+APP00779,CAND00779,DataNova,Business Analyst,Delhi,LinkedIn,2026-08-03 17:00:00,True,True,True,True,False,False,Interviewed
+APP00651,CAND00651,BrightWorks,BI Analyst,Gurugram,Job Portal,2026-08-03 18:00:00,True,False,False,False,False,False,Screened
+APP00628,CAND00628,BrightWorks,Business Analyst,Bengaluru,LinkedIn,2026-08-03 19:00:00,True,True,True,True,False,False,Interviewed
+APP00067,CAND00067,Alpha Tech,BI Analyst,Pune,Job Portal,2026-08-03 20:00:00,False,False,False,False,False,False,Applied
+APP00816,CAND00816,NextGen Labs,Business Analyst,Bengaluru,Company Website,2026-08-03 21:00:00,False,False,False,False,False,False,Applied
+APP00610,CAND00610,DataNova,Data Analyst,Mumbai,Referral,2026-08-03 22:00:00,True,True,True,False,False,False,Shortlisted
+APP00796,CAND00796,NextGen Labs,BI Analyst,Mumbai,LinkedIn,2026-08-03 23:00:00,True,True,False,False,False,False,Shortlisted
+APP00300,CAND00300,NextGen Labs,Data Analyst,Bengaluru,Job Portal,2026-08-04 01:00:00,True,False,False,False,False,False,Screened
+APP00004,CAND00004,BrightWorks,Data Analyst,Delhi,Referral,2026-08-04 02:00:00,True,False,False,False,False,False,Screened
+APP00785,CAND00785,DataNova,Business Analyst,Delhi,Job Portal,2026-08-04 03:00:00,True,False,False,False,False,False,Screened
+APP00386,CAND00386,DataNova,Marketing Analyst,Hyderabad,LinkedIn,2026-08-04 05:00:00,False,False,False,False,False,False,Applied
+APP00307,CAND00307,BrightWorks,Data Analyst,Gurugram,Company Website,2026-08-04 06:00:00,True,True,True,True,False,False,Interviewed
+APP00979,CAND00979,DataNova,BI Analyst,Bengaluru,Company Website,2026-08-04 08:00:00,True,True,True,True,False,False,Interviewed
+APP00029,CAND00029,InsightHub,Business Analyst,Mumbai,Referral,2026-08-04 09:00:00,True,True,True,True,True,False,Offer
+APP00093,CAND00093,NextGen Labs,Business Analyst,Bengaluru,LinkedIn,2026-08-04 10:00:00,False,False,False,False,False,False,Applied
+APP00435,CAND00435,InsightHub,Marketing Analyst,Hyderabad,Job Portal,2026-08-04 11:00:00,True,False,False,False,False,False,Screened
+APP00739,CAND00739,Alpha Tech,Data Analyst,Delhi,Company Website,2026-08-04 12:00:00,True,True,True,False,False,False,Shortlisted
+APP00922,CAND00922,BrightWorks,Marketing Analyst,Hyderabad,Company Website,2026-08-04 13:00:00,True,True,True,True,True,True,Hired
+APP00028,CAND00028,DataNova,Product Analyst,Hyderabad,Company Website,2026-08-04 14:00:00,False,False,False,False,False,False,Applied
+APP00975,CAND00975,NextGen Labs,Product Analyst,Pune,Job Portal,2026-08-04 17:00:00,True,False,False,False,False,False,Screened
+APP00790,CAND00790,InsightHub,Business Analyst,Delhi,Campus,2026-08-04 18:00:00,True,True,True,False,False,False,Shortlisted
+APP00516,CAND00516,NextGen Labs,Marketing Analyst,Delhi,Job Portal,2026-08-04 19:00:00,True,False,False,False,False,False,Screened
+APP00766,CAND00766,BrightWorks,Data Analyst,Pune,Referral,2026-08-04 20:00:00,False,False,False,False,False,False,Applied
+APP00327,CAND00327,InsightHub,Data Analyst,Gurugram,Referral,2026-08-04 21:00:00,False,False,False,False,False,False,Applied
+APP00269,CAND00269,BrightWorks,Product Analyst,Mumbai,Company Website,2026-08-04 22:00:00,False,False,False,False,False,False,Applied
+APP00317,CAND00317,InsightHub,BI Analyst,Gurugram,Company Website,2026-08-04 23:00:00,True,False,False,False,False,False,Screened
+APP00313,CAND00313,InsightHub,Marketing Analyst,Hyderabad,Job Portal,2026-08-05 00:00:00,False,False,False,False,False,False,Applied
+APP00741,CAND00741,NextGen Labs,BI Analyst,Gurugram,Company Website,2026-08-05 01:00:00,True,True,True,True,True,True,Hired
+APP00951,CAND00951,InsightHub,BI Analyst,Mumbai,Referral,2026-08-05 02:00:00,True,True,True,True,True,False,Offer
+APP00889,CAND00889,DataNova,Marketing Analyst,Mumbai,Job Portal,2026-08-05 03:00:00,True,True,True,True,False,False,Interviewed
+APP00473,CAND00473,Alpha Tech,BI Analyst,Bengaluru,Job Portal,2026-08-05 04:00:00,True,False,False,False,False,False,Screened
+APP00322,CAND00322,InsightHub,Data Analyst,Hyderabad,LinkedIn,2026-08-05 05:00:00,True,True,True,True,False,False,Interviewed
+APP00290,CAND00290,NextGen Labs,Data Analyst,Hyderabad,Referral,2026-08-05 06:00:00,True,True,True,True,False,False,Interviewed
+APP00691,CAND00691,DataNova,Marketing Analyst,Pune,Company Website,2026-08-05 07:00:00,True,True,True,True,False,False,Interviewed
+APP00729,CAND00729,InsightHub,Marketing Analyst,Gurugram,Job Portal,2026-08-05 08:00:00,True,False,False,False,False,False,Screened
+APP00338,CAND00338,BrightWorks,Business Analyst,Bengaluru,LinkedIn,2026-08-05 09:00:00,True,False,False,False,False,False,Screened
+APP00964,CAND00964,Alpha Tech,Marketing Analyst,Mumbai,Company Website,2026-08-05 10:00:00,True,True,True,True,False,False,Interviewed
+APP00292,CAND00292,DataNova,Product Analyst,Pune,Job Portal,2026-08-05 11:00:00,True,True,True,False,False,False,Shortlisted
+APP00163,CAND00163,NextGen Labs,Product Analyst,Gurugram,Referral,2026-08-05 12:00:00,True,True,True,True,False,False,Interviewed
+APP00064,CAND00064,BrightWorks,BI Analyst,Bengaluru,Company Website,2026-08-05 13:00:00,False,False,False,False,False,False,Applied
+APP00455,CAND00455,BrightWorks,BI Analyst,Mumbai,Job Portal,2026-08-05 14:00:00,True,True,True,True,False,False,Interviewed
+APP00495,CAND00495,BrightWorks,Business Analyst,Hyderabad,Company Website,2026-08-05 16:00:00,True,True,True,True,True,False,Offer
+APP00896,CAND00896,Alpha Tech,Marketing Analyst,Gurugram,Job Portal,2026-08-05 17:00:00,True,False,False,False,False,False,Screened
+APP00946,CAND00946,DataNova,Business Analyst,Bengaluru,Job Portal,2026-08-05 18:00:00,True,True,True,True,False,False,Interviewed
+APP00834,CAND00834,Alpha Tech,Data Analyst,Mumbai,Job Portal,2026-08-05 19:00:00,True,False,False,False,False,False,Screened
+APP00077,CAND00077,BrightWorks,Data Analyst,Gurugram,LinkedIn,2026-08-05 20:00:00,True,True,True,True,False,False,Interviewed
+APP00578,CAND00578,DataNova,Data Analyst,Hyderabad,Campus,2026-08-05 21:00:00,False,False,False,False,False,False,Applied
+APP00260,CAND00260,InsightHub,Product Analyst,Bengaluru,Job Portal,2026-08-05 22:00:00,True,True,True,True,True,True,Hired
+APP00145,CAND00145,BrightWorks,Data Analyst,Delhi,Job Portal,2026-08-05 23:00:00,True,False,False,False,False,False,Screened
+APP00041,CAND00041,DataNova,Business Analyst,Hyderabad,Job Portal,2026-08-06 00:00:00,True,False,False,False,False,False,Screened
+APP00270,CAND00270,Alpha Tech,BI Analyst,Delhi,Job Portal,2026-08-06 01:00:00,True,True,True,True,False,False,Interviewed
+APP00366,CAND00366,InsightHub,Business Analyst,Mumbai,Company Website,2026-08-06 02:00:00,True,False,False,False,False,False,Screened
+APP00306,CAND00306,InsightHub,Marketing Analyst,Delhi,Campus,2026-08-06 03:00:00,True,True,True,True,False,False,Interviewed
+APP00925,CAND00925,BrightWorks,BI Analyst,Bengaluru,Company Website,2026-08-06 04:00:00,True,False,False,False,False,False,Screened
+APP00001,CAND00001,DataNova,Marketing Analyst,Bengaluru,Company Website,2026-08-06 05:00:00,False,False,False,False,False,False,Applied
+APP00073,CAND00073,Alpha Tech,Data Analyst,Bengaluru,Job Portal,2026-08-06 06:00:00,True,True,True,True,True,True,Hired
+APP00984,CAND00984,InsightHub,Data Analyst,Pune,Job Portal,2026-08-06 07:00:00,True,True,True,False,False,False,Shortlisted
+APP00405,CAND00405,InsightHub,Business Analyst,Bengaluru,Company Website,2026-08-06 08:00:00,True,False,False,False,False,False,Screened
+APP00345,CAND00345,NextGen Labs,Product Analyst,Delhi,Company Website,2026-08-06 09:00:00,True,True,False,True,True,False,Offer
+APP00263,CAND00263,Alpha Tech,Business Analyst,Hyderabad,Job Portal,2026-08-06 10:00:00,True,True,True,False,False,False,Shortlisted
+APP00264,CAND00264,NextGen Labs,Business Analyst,Pune,Company Website,2026-08-06 11:00:00,True,False,False,False,False,False,Screened
+APP00536,CAND00536,Alpha Tech,Product Analyst,Mumbai,Campus,2026-08-06 12:00:00,True,True,True,False,False,False,Shortlisted
+APP00570,CAND00570,Alpha Tech,Data Analyst,Mumbai,Company Website,2026-08-06 13:00:00,True,False,False,False,False,False,Screened
+APP00438,CAND00438,DataNova,Marketing Analyst,Bengaluru,LinkedIn,2026-08-06 14:00:00,False,False,False,False,False,False,Applied
+APP00697,CAND00697,Alpha Tech,Product Analyst,Pune,Job Portal,2026-08-06 15:00:00,True,True,True,True,False,False,Interviewed
+APP00707,CAND00707,Alpha Tech,BI Analyst,Pune,Company Website,2026-08-06 16:00:00,True,True,True,True,False,False,Interviewed
+APP00353,CAND00353,DataNova,Data Analyst,Bengaluru,Referral,2026-08-06 17:00:00,False,False,False,False,False,False,Applied
+APP00127,CAND00127,BrightWorks,Data Analyst,Mumbai,LinkedIn,2026-08-06 18:00:00,False,False,False,False,False,False,Applied
+APP00952,CAND00952,NextGen Labs,Business Analyst,Pune,Referral,2026-08-06 19:00:00,True,False,False,False,False,False,Screened
+APP00275,CAND00275,NextGen Labs,Marketing Analyst,Gurugram,Company Website,2026-08-06 20:00:00,True,True,True,False,False,False,Shortlisted
+APP00491,CAND00491,DataNova,Business Analyst,Gurugram,Company Website,2026-08-06 21:00:00,True,False,False,False,False,False,Screened
+APP00331,CAND00331,DataNova,BI Analyst,Gurugram,Company Website,2026-08-06 22:00:00,True,True,True,False,False,False,Shortlisted
+APP00118,CAND00118,Alpha Tech,Business Analyst,Pune,Job Portal,2026-08-06 23:00:00,True,False,False,False,False,False,Screened
+APP00688,CAND00688,InsightHub,BI Analyst,Bengaluru,Job Portal,2026-08-07 00:00:00,True,True,True,True,False,False,Interviewed
+APP00497,CAND00497,Alpha Tech,Data Analyst,Gurugram,Referral,2026-08-07 01:00:00,True,False,False,False,False,False,Screened
+APP00422,CAND00422,InsightHub,Product Analyst,Hyderabad,LinkedIn,2026-08-07 02:00:00,True,False,False,False,False,False,Screened
+APP00397,CAND00397,InsightHub,Product Analyst,Bengaluru,LinkedIn,2026-08-07 03:00:00,True,True,True,True,False,False,Interviewed
+APP00633,CAND00633,Alpha Tech,Business Analyst,Gurugram,Company Website,2026-08-07 04:00:00,False,False,False,False,False,False,Applied
+APP00586,CAND00586,BrightWorks,Business Analyst,Bengaluru,Job Portal,2026-08-07 05:00:00,True,True,True,True,False,False,Interviewed
+APP00906,CAND00906,BrightWorks,Business Analyst,Delhi,Campus,2026-08-07 06:00:00,False,False,False,False,False,False,Applied
+APP00861,CAND00861,Alpha Tech,Business Analyst,Gurugram,LinkedIn,2026-08-07 07:00:00,False,False,False,False,False,False,Applied
+APP00129,CAND00129,BrightWorks,Product Analyst,Pune,Job Portal,2026-08-07 08:00:00,True,False,False,False,False,False,Screened
+APP00943,CAND00943,InsightHub,Product Analyst,Hyderabad,Referral,2026-08-07 09:00:00,True,False,False,False,False,False,Screened
+APP00232,CAND00232,Alpha Tech,BI Analyst,Mumbai,Company Website,2026-08-07 11:00:00,True,False,False,False,False,False,Screened
+APP00782,CAND00782,BrightWorks,BI Analyst,Mumbai,Referral,2026-08-07 12:00:00,True,False,False,False,False,False,Screened
+APP00904,CAND00904,NextGen Labs,Product Analyst,Hyderabad,Referral,2026-08-07 13:00:00,False,False,False,False,False,False,Applied
+APP00764,CAND00764,Alpha Tech,Product Analyst,Delhi,LinkedIn,2026-08-07 14:00:00,True,False,False,False,False,False,Screened
+APP00480,CAND00480,BrightWorks,Data Analyst,Gurugram,Referral,2026-08-07 15:00:00,True,False,False,False,False,False,Screened
+APP00939,CAND00939,NextGen Labs,BI Analyst,Hyderabad,Job Portal,2026-08-07 16:00:00,False,False,False,False,False,False,Applied
+APP00094,CAND00094,NextGen Labs,BI Analyst,Gurugram,Referral,2026-08-07 17:00:00,True,True,True,True,False,False,Interviewed
+APP00440,CAND00440,Alpha Tech,Data Analyst,Gurugram,Job Portal,2026-08-07 18:00:00,False,False,False,False,False,False,Applied
+APP00006,CAND00006,NextGen Labs,Data Analyst,Hyderabad,Job Portal,2026-08-07 19:00:00,True,False,False,False,False,False,Screened
+APP00332,CAND00332,Alpha Tech,Business Analyst,Hyderabad,LinkedIn,2026-08-07 20:00:00,True,True,True,True,False,False,Interviewed
+APP00715,CAND00715,DataNova,Product Analyst,Hyderabad,Company Website,2026-08-07 21:00:00,True,True,True,True,False,False,Interviewed
+APP00753,CAND00753,BrightWorks,Product Analyst,Bengaluru,Referral,2026-08-07 22:00:00,True,False,False,False,False,False,Screened
+APP00445,CAND00445,BrightWorks,BI Analyst,Hyderabad,LinkedIn,2026-08-07 23:00:00,False,False,False,False,False,False,Applied
+APP00177,CAND00177,InsightHub,Product Analyst,Mumbai,Referral,2026-08-08 00:00:00,False,False,False,False,False,False,Applied
+APP00743,CAND00743,BrightWorks,Data Analyst,Delhi,LinkedIn,2026-08-08 01:00:00,False,False,False,False,False,False,Applied
+APP00893,CAND00893,DataNova,Marketing Analyst,Pune,LinkedIn,2026-08-08 02:00:00,True,True,True,True,False,False,Interviewed
+APP00763,CAND00763,InsightHub,Marketing Analyst,Hyderabad,Job Portal,2026-08-08 03:00:00,True,True,False,True,False,False,Interviewed
+APP00607,CAND00607,InsightHub,BI Analyst,Gurugram,Job Portal,2026-08-08 04:00:00,True,False,False,False,False,False,Screened
+APP00514,CAND00514,Alpha Tech,Data Analyst,Delhi,LinkedIn,2026-08-08 05:00:00,True,True,True,True,False,False,Interviewed
+APP00021,CAND00021,NextGen Labs,Data Analyst,Pune,Referral,2026-08-08 06:00:00,True,True,True,False,False,False,Shortlisted
+APP00835,CAND00835,BrightWorks,Product Analyst,Hyderabad,Company Website,2026-08-08 07:00:00,True,False,False,False,False,False,Screened
+APP00740,CAND00740,DataNova,BI Analyst,Gurugram,Company Website,2026-08-08 08:00:00,True,False,False,False,False,False,Screened
+APP00061,CAND00061,InsightHub,Product Analyst,Hyderabad,Company Website,2026-08-08 09:00:00,True,False,False,False,False,False,Screened
+APP00175,CAND00175,BrightWorks,BI Analyst,Delhi,Referral,2026-08-08 10:00:00,False,False,False,False,False,False,Applied
+APP00267,CAND00267,NextGen Labs,Marketing Analyst,Mumbai,Referral,2026-08-08 11:00:00,True,True,True,True,False,False,Interviewed
+APP00919,CAND00919,DataNova,Product Analyst,Pune,LinkedIn,2026-08-08 13:00:00,True,False,False,False,False,False,Screened
+APP00347,CAND00347,DataNova,Data Analyst,Gurugram,Referral,2026-08-08 14:00:00,True,True,True,False,False,False,Shortlisted
+APP00567,CAND00567,Alpha Tech,Business Analyst,Hyderabad,Company Website,2026-08-08 15:00:00,True,False,False,False,False,False,Screened
+APP00154,CAND00154,DataNova,Marketing Analyst,Gurugram,Company Website,2026-08-08 16:00:00,True,False,False,False,False,False,Screened
+APP00744,CAND00744,InsightHub,Business Analyst,Bengaluru,Company Website,2026-08-08 18:00:00,True,True,True,True,False,False,Interviewed
+APP00809,CAND00809,NextGen Labs,BI Analyst,Pune,Company Website,2026-08-08 20:00:00,False,False,False,False,False,False,Applied
+APP00301,CAND00301,BrightWorks,Data Analyst,Mumbai,Job Portal,2026-08-08 21:00:00,False,False,False,False,False,False,Applied
+APP00321,CAND00321,Alpha Tech,Marketing Analyst,Gurugram,Referral,2026-08-08 22:00:00,False,False,False,False,False,False,Applied
+APP00111,CAND00111,BrightWorks,Business Analyst,Delhi,Job Portal,2026-08-08 23:00:00,True,False,False,False,False,False,Screened
+APP00540,CAND00540,Alpha Tech,BI Analyst,Delhi,Job Portal,2026-08-09 02:00:00,True,True,True,True,True,True,Hired
+APP00091,CAND00091,DataNova,Marketing Analyst,Pune,Job Portal,2026-08-09 03:00:00,True,True,True,False,False,False,Shortlisted
+APP00663,CAND00663,NextGen Labs,Product Analyst,Pune,Referral,2026-08-09 04:00:00,False,False,False,False,False,False,Applied
+APP01000,CAND01000,Alpha Tech,Product Analyst,Pune,Company Website,2026-08-09 05:00:00,True,False,False,False,False,False,Screened
+APP00754,CAND00754,Alpha Tech,Marketing Analyst,Delhi,Company Website,2026-08-09 06:00:00,False,False,False,False,False,False,Applied
+APP00765,CAND00765,NextGen Labs,Data Analyst,Pune,Job Portal,2026-08-09 07:00:00,False,False,False,False,False,False,Applied
+APP00453,CAND00453,DataNova,Product Analyst,Mumbai,Company Website,2026-08-09 08:00:00,False,False,False,False,False,False,Applied
+APP00215,CAND00215,InsightHub,Marketing Analyst,Gurugram,LinkedIn,2026-08-09 11:00:00,False,False,False,False,False,False,Applied
+APP00023,CAND00023,DataNova,Business Analyst,Pune,Job Portal,2026-08-09 12:00:00,False,False,False,False,False,False,Applied
+APP00184,CAND00184,InsightHub,Data Analyst,Pune,LinkedIn,2026-08-09 13:00:00,True,False,False,False,False,False,Screened
+APP00957,CAND00957,DataNova,Business Analyst,Gurugram,Company Website,2026-08-09 14:00:00,True,True,True,False,False,False,Shortlisted
+APP00225,CAND00225,Alpha Tech,Product Analyst,Pune,Job Portal,2026-08-09 15:00:00,False,False,False,False,False,False,Applied
+APP00171,CAND00171,BrightWorks,BI Analyst,Gurugram,Referral,2026-08-09 16:00:00,False,False,False,False,False,False,Applied
+APP00312,CAND00312,InsightHub,Business Analyst,Delhi,Job Portal,2026-08-09 17:00:00,True,False,False,False,False,False,Screened
+APP00309,CAND00309,Alpha Tech,BI Analyst,Hyderabad,LinkedIn,2026-08-09 18:00:00,False,False,False,False,False,False,Applied
+APP00890,CAND00890,BrightWorks,Marketing Analyst,Bengaluru,Job Portal,2026-08-09 19:00:00,True,False,False,False,False,False,Screened
+APP00375,CAND00375,Alpha Tech,Product Analyst,Bengaluru,Job Portal,2026-08-09 20:00:00,True,False,False,False,False,False,Screened
+APP00878,CAND00878,DataNova,Data Analyst,Bengaluru,Referral,2026-08-09 22:00:00,True,True,True,False,False,False,Shortlisted
+APP00970,CAND00970,BrightWorks,Marketing Analyst,Bengaluru,Company Website,2026-08-09 23:00:00,True,False,False,False,False,False,Screened
+APP00529,CAND00529,NextGen Labs,Product Analyst,Gurugram,Job Portal,2026-08-10 00:00:00,True,True,False,False,False,False,Shortlisted
+APP00155,CAND00155,DataNova,Business Analyst,Mumbai,Campus,2026-08-10 02:00:00,True,True,True,True,False,False,Interviewed
+APP00668,CAND00668,Alpha Tech,Marketing Analyst,Gurugram,Job Portal,2026-08-10 03:00:00,True,True,True,True,False,False,Interviewed
+APP00341,CAND00341,InsightHub,Data Analyst,Delhi,Company Website,2026-08-10 04:00:00,True,False,False,False,False,False,Screened
+APP00406,CAND00406,InsightHub,Product Analyst,Bengaluru,Campus,2026-08-10 05:00:00,False,False,False,False,False,False,Applied
+APP00055,CAND00055,BrightWorks,Business Analyst,Delhi,Referral,2026-08-10 06:00:00,True,False,False,False,False,False,Screened
+APP00075,CAND00075,NextGen Labs,BI Analyst,Delhi,LinkedIn,2026-08-10 07:00:00,True,True,True,True,True,True,Hired
+APP00475,CAND00475,BrightWorks,Marketing Analyst,Pune,Referral,2026-08-10 08:00:00,True,True,True,False,False,False,Shortlisted
+APP00674,CAND00674,DataNova,Marketing Analyst,Bengaluru,Referral,2026-08-10 09:00:00,True,False,False,False,False,False,Screened
+APP00692,CAND00692,Alpha Tech,Marketing Analyst,Hyderabad,Company Website,2026-08-10 10:00:00,True,False,False,False,False,False,Screened
+APP00140,CAND00140,DataNova,Data Analyst,Bengaluru,Campus,2026-08-10 11:00:00,True,True,True,True,False,False,Interviewed
+APP00374,CAND00374,Alpha Tech,Data Analyst,Delhi,Referral,2026-08-10 12:00:00,True,True,True,True,True,True,Hired
+APP00303,CAND00303,NextGen Labs,Business Analyst,Delhi,Referral,2026-08-10 14:00:00,True,False,False,False,False,False,Screened
+APP00568,CAND00568,DataNova,Business Analyst,Mumbai,Company Website,2026-08-10 15:00:00,True,False,False,False,False,False,Screened
+APP00845,CAND00845,DataNova,Marketing Analyst,Delhi,Job Portal,2026-08-10 16:00:00,True,True,True,True,False,False,Interviewed
+APP00619,CAND00619,DataNova,Data Analyst,Mumbai,LinkedIn,2026-08-10 17:00:00,False,False,False,False,False,False,Applied
+APP00879,CAND00879,BrightWorks,Data Analyst,Pune,Job Portal,2026-08-10 18:00:00,False,False,False,False,False,False,Applied
+APP00462,CAND00462,NextGen Labs,Product Analyst,Hyderabad,Referral,2026-08-10 19:00:00,False,False,False,False,False,False,Applied
+APP00336,CAND00336,Alpha Tech,BI Analyst,Mumbai,Job Portal,2026-08-10 20:00:00,True,True,True,True,True,False,Offer
+APP00972,CAND00972,Alpha Tech,Marketing Analyst,Pune,Campus,2026-08-10 21:00:00,True,False,False,False,False,False,Screened
+APP00044,CAND00044,BrightWorks,Marketing Analyst,Delhi,Campus,2026-08-10 22:00:00,True,False,False,False,False,False,Screened
+APP00637,CAND00637,Alpha Tech,BI Analyst,Mumbai,Referral,2026-08-10 23:00:00,True,False,False,False,False,False,Screened
+APP00531,CAND00531,InsightHub,BI Analyst,Gurugram,LinkedIn,2026-08-11 00:00:00,True,True,False,False,False,False,Shortlisted
+APP00194,CAND00194,BrightWorks,Data Analyst,Gurugram,Referral,2026-08-11 01:00:00,True,True,True,False,False,False,Shortlisted
+APP00873,CAND00873,DataNova,Data Analyst,Hyderabad,Referral,2026-08-11 02:00:00,True,False,False,False,False,False,Screened
+APP00315,CAND00315,DataNova,BI Analyst,Hyderabad,LinkedIn,2026-08-11 03:00:00,True,True,True,False,False,False,Shortlisted
+APP00824,CAND00824,NextGen Labs,Data Analyst,Hyderabad,Company Website,2026-08-11 04:00:00,True,True,True,True,False,False,Interviewed
+APP00078,CAND00078,InsightHub,Product Analyst,Hyderabad,Job Portal,2026-08-11 05:00:00,False,False,False,False,False,False,Applied
+APP00857,CAND00857,DataNova,BI Analyst,Delhi,Job Portal,2026-08-11 06:00:00,False,False,False,False,False,False,Applied
+APP00009,CAND00009,Alpha Tech,Marketing Analyst,Pune,Referral,2026-08-11 07:00:00,True,True,True,True,True,True,Hired
+APP00444,CAND00444,Alpha Tech,Business Analyst,Bengaluru,Company Website,2026-08-11 08:00:00,True,True,True,True,False,False,Interviewed
+APP00855,CAND00855,DataNova,Marketing Analyst,Gurugram,Job Portal,2026-08-11 09:00:00,True,False,False,False,False,False,Screened
+APP00189,CAND00189,Alpha Tech,Product Analyst,Mumbai,Referral,2026-08-11 10:00:00,True,True,True,True,False,False,Interviewed
+APP00859,CAND00859,Alpha Tech,Business Analyst,Mumbai,Referral,2026-08-11 11:00:00,False,False,False,False,False,False,Applied
+APP00428,CAND00428,DataNova,Data Analyst,Hyderabad,Campus,2026-08-11 12:00:00,True,False,False,False,False,False,Screened
+APP00144,CAND00144,BrightWorks,Product Analyst,Mumbai,Company Website,2026-08-11 13:00:00,False,False,False,False,False,False,Applied
+APP00534,CAND00534,DataNova,Data Analyst,Hyderabad,Referral,2026-08-11 14:00:00,True,True,True,True,False,False,Interviewed
+APP00854,CAND00854,Alpha Tech,Product Analyst,Mumbai,Campus,2026-08-11 15:00:00,True,True,True,True,False,False,Interviewed
+APP00346,CAND00346,InsightHub,Product Analyst,Mumbai,Referral,2026-08-11 16:00:00,False,False,False,False,False,False,Applied
+APP00899,CAND00899,Alpha Tech,Business Analyst,Hyderabad,Job Portal,2026-08-11 18:00:00,False,False,False,False,False,False,Applied
+APP00708,CAND00708,InsightHub,Business Analyst,Hyderabad,LinkedIn,2026-08-11 19:00:00,False,False,False,False,False,False,Applied
+APP00923,CAND00923,BrightWorks,Marketing Analyst,Mumbai,Campus,2026-08-11 20:00:00,False,False,False,False,False,False,Applied
+APP00161,CAND00161,NextGen Labs,Business Analyst,Hyderabad,Company Website,2026-08-11 21:00:00,True,True,True,True,False,False,Interviewed
+APP00722,CAND00722,Alpha Tech,Marketing Analyst,Delhi,Job Portal,2026-08-11 22:00:00,True,False,False,False,False,False,Screened
+APP00051,CAND00051,NextGen Labs,Business Analyst,Hyderabad,Campus,2026-08-11 23:00:00,True,False,False,False,False,False,Screened
+APP00757,CAND00757,NextGen Labs,Business Analyst,Pune,Referral,2026-08-12 00:00:00,False,False,False,False,False,False,Applied
+APP00158,CAND00158,Alpha Tech,BI Analyst,Delhi,LinkedIn,2026-08-12 01:00:00,False,False,False,False,False,False,Applied
+APP00065,CAND00065,InsightHub,Data Analyst,Gurugram,Job Portal,2026-08-12 02:00:00,True,True,True,False,False,False,Shortlisted
+APP00125,CAND00125,InsightHub,Marketing Analyst,Pune,Job Portal,2026-08-12 03:00:00,True,False,False,False,False,False,Screened
+APP00650,CAND00650,Alpha Tech,Product Analyst,Gurugram,Company Website,2026-08-12 04:00:00,True,False,False,False,False,False,Screened
+APP00359,CAND00359,BrightWorks,Data Analyst,Pune,Campus,2026-08-12 05:00:00,True,True,True,False,False,False,Shortlisted
+APP00602,CAND00602,NextGen Labs,Business Analyst,Hyderabad,Job Portal,2026-08-12 06:00:00,False,False,False,False,False,False,Applied
+APP00639,CAND00639,InsightHub,Data Analyst,Hyderabad,Job Portal,2026-08-12 07:00:00,False,False,False,False,False,False,Applied
+APP00778,CAND00778,Alpha Tech,BI Analyst,Pune,LinkedIn,2026-08-12 08:00:00,True,False,False,False,False,False,Screened
+APP00716,CAND00716,BrightWorks,Marketing Analyst,Pune,Campus,2026-08-12 09:00:00,True,True,True,True,True,True,Hired
+APP00868,CAND00868,NextGen Labs,Business Analyst,Gurugram,Job Portal,2026-08-12 10:00:00,True,False,False,False,False,False,Screened
+APP00852,CAND00852,NextGen Labs,Product Analyst,Gurugram,LinkedIn,2026-08-12 12:00:00,False,False,False,False,False,False,Applied
+APP00705,CAND00705,DataNova,Business Analyst,Bengaluru,Job Portal,2026-08-12 13:00:00,True,True,True,False,False,False,Shortlisted
+APP00832,CAND00832,InsightHub,Data Analyst,Bengaluru,Company Website,2026-08-12 14:00:00,True,False,False,False,False,False,Screened
+APP00130,CAND00130,InsightHub,Business Analyst,Delhi,Company Website,2026-08-12 15:00:00,True,True,True,True,False,False,Interviewed
+APP00120,CAND00120,NextGen Labs,BI Analyst,Hyderabad,Referral,2026-08-12 16:00:00,True,True,True,True,False,False,Interviewed
+APP00159,CAND00159,Alpha Tech,Product Analyst,Pune,Job Portal,2026-08-12 17:00:00,True,True,True,False,False,False,Shortlisted
+APP00350,CAND00350,Alpha Tech,Data Analyst,Hyderabad,Referral,2026-08-12 18:00:00,False,False,False,False,False,False,Applied
+APP00745,CAND00745,Alpha Tech,Product Analyst,Delhi,Job Portal,2026-08-12 19:00:00,True,False,False,False,False,False,Screened
+APP00419,CAND00419,NextGen Labs,Product Analyst,Pune,Referral,2026-08-12 20:00:00,True,True,True,True,False,False,Interviewed
+APP00911,CAND00911,BrightWorks,BI Analyst,Gurugram,Referral,2026-08-12 21:00:00,True,False,False,False,False,False,Screened
+APP00470,CAND00470,BrightWorks,BI Analyst,Hyderabad,Campus,2026-08-12 23:00:00,False,False,False,False,False,False,Applied
+APP00053,CAND00053,InsightHub,Business Analyst,Delhi,Campus,2026-08-13 00:00:00,True,True,True,True,False,False,Interviewed
+APP00709,CAND00709,InsightHub,Data Analyst,Gurugram,Job Portal,2026-08-13 01:00:00,True,False,False,False,False,False,Screened
+APP00541,CAND00541,BrightWorks,Business Analyst,Pune,Campus,2026-08-13 03:00:00,True,False,False,False,False,False,Screened
+APP00032,CAND00032,BrightWorks,Data Analyst,Mumbai,Job Portal,2026-08-13 04:00:00,True,True,True,False,False,False,Shortlisted
+APP00402,CAND00402,Alpha Tech,Data Analyst,Bengaluru,Campus,2026-08-13 05:00:00,True,False,False,False,False,False,Screened
+APP00640,CAND00640,Alpha Tech,Marketing Analyst,Hyderabad,Company Website,2026-08-13 06:00:00,False,False,False,False,False,False,Applied
+APP00241,CAND00241,DataNova,Marketing Analyst,Mumbai,Campus,2026-08-13 07:00:00,True,True,True,True,False,False,Interviewed
+APP00105,CAND00105,Alpha Tech,Product Analyst,Gurugram,Campus,2026-08-13 08:00:00,True,True,True,True,True,True,Hired
+APP00675,CAND00675,BrightWorks,Business Analyst,Delhi,Company Website,2026-08-13 09:00:00,False,False,False,False,False,False,Applied
+APP00057,CAND00057,Alpha Tech,Product Analyst,Gurugram,Job Portal,2026-08-13 10:00:00,True,True,True,True,True,True,Hired
+APP00837,CAND00837,Alpha Tech,Marketing Analyst,Delhi,Campus,2026-08-13 11:00:00,True,True,True,True,False,False,Interviewed
+APP00960,CAND00960,NextGen Labs,Marketing Analyst,Bengaluru,LinkedIn,2026-08-13 12:00:00,True,True,True,True,False,False,Interviewed
+APP00136,CAND00136,NextGen Labs,Product Analyst,Hyderabad,Company Website,2026-08-13 13:00:00,False,False,False,False,False,False,Applied
+APP00993,CAND00993,Alpha Tech,Data Analyst,Pune,Job Portal,2026-08-13 14:00:00,True,True,True,True,False,False,Interviewed
+APP00272,CAND00272,DataNova,BI Analyst,Gurugram,LinkedIn,2026-08-13 15:00:00,True,True,True,True,False,False,Interviewed
+APP00851,CAND00851,InsightHub,BI Analyst,Bengaluru,Job Portal,2026-08-13 16:00:00,True,False,False,False,False,False,Screened
+APP00128,CAND00128,Alpha Tech,BI Analyst,Pune,LinkedIn,2026-08-13 18:00:00,True,True,True,True,False,False,Interviewed
+APP00294,CAND00294,NextGen Labs,Data Analyst,Pune,Company Website,2026-08-13 19:00:00,True,False,False,False,False,False,Screened
+APP00238,CAND00238,NextGen Labs,Marketing Analyst,Bengaluru,Job Portal,2026-08-13 20:00:00,True,True,True,False,False,False,Shortlisted
+APP00255,CAND00255,InsightHub,BI Analyst,Gurugram,Job Portal,2026-08-13 21:00:00,True,True,True,True,False,False,Interviewed
+APP00356,CAND00356,NextGen Labs,Marketing Analyst,Delhi,Referral,2026-08-13 22:00:00,True,True,True,True,False,False,Interviewed
+APP00424,CAND00424,DataNova,BI Analyst,Hyderabad,Company Website,2026-08-13 23:00:00,True,True,False,True,False,False,Interviewed
+APP00329,CAND00329,NextGen Labs,Marketing Analyst,Delhi,Company Website,2026-08-14 00:00:00,False,False,False,False,False,False,Applied
+APP00218,CAND00218,DataNova,Product Analyst,Hyderabad,LinkedIn,2026-08-14 01:00:00,True,True,True,True,False,False,Interviewed
+APP00850,CAND00850,InsightHub,Business Analyst,Pune,Referral,2026-08-14 02:00:00,False,False,False,False,False,False,Applied
+APP00751,CAND00751,NextGen Labs,Data Analyst,Mumbai,Job Portal,2026-08-14 03:00:00,True,False,False,False,False,False,Screened
+APP00880,CAND00880,Alpha Tech,BI Analyst,Pune,Job Portal,2026-08-14 04:00:00,True,True,True,False,False,False,Shortlisted
+APP00449,CAND00449,InsightHub,Business Analyst,Delhi,Company Website,2026-08-14 05:00:00,False,False,False,False,False,False,Applied
+APP00355,CAND00355,DataNova,Business Analyst,Gurugram,Job Portal,2026-08-14 06:00:00,True,True,True,False,False,False,Shortlisted
+APP00537,CAND00537,NextGen Labs,Marketing Analyst,Bengaluru,LinkedIn,2026-08-14 07:00:00,True,False,False,False,False,False,Screened
+APP00693,CAND00693,Alpha Tech,Data Analyst,Pune,Company Website,2026-08-14 08:00:00,True,False,False,False,False,False,Screened
+APP00392,CAND00392,DataNova,Business Analyst,Delhi,Company Website,2026-08-14 09:00:00,True,False,False,False,False,False,Screened
+APP00587,CAND00587,Alpha Tech,Data Analyst,Delhi,Job Portal,2026-08-14 11:00:00,True,True,True,True,False,False,Interviewed
+APP00961,CAND00961,NextGen Labs,Data Analyst,Mumbai,Job Portal,2026-08-14 12:00:00,True,False,False,False,False,False,Screened
+APP00134,CAND00134,InsightHub,Data Analyst,Pune,Company Website,2026-08-14 13:00:00,True,False,False,False,False,False,Screened
+APP00180,CAND00180,InsightHub,Business Analyst,Mumbai,Job Portal,2026-08-14 14:00:00,True,True,True,True,True,True,Hired
+APP00308,CAND00308,DataNova,Data Analyst,Gurugram,Company Website,2026-08-14 15:00:00,False,False,False,False,False,False,Applied
+APP00400,CAND00400,BrightWorks,Marketing Analyst,Pune,LinkedIn,2026-08-14 16:00:00,True,True,True,False,False,False,Shortlisted
+APP00774,CAND00774,DataNova,Marketing Analyst,Hyderabad,Company Website,2026-08-14 17:00:00,True,True,True,True,False,False,Interviewed
+APP00389,CAND00389,NextGen Labs,Marketing Analyst,Delhi,LinkedIn,2026-08-14 18:00:00,True,False,False,False,False,False,Screened
+APP00083,CAND00083,Alpha Tech,BI Analyst,Hyderabad,Company Website,2026-08-14 19:00:00,False,False,False,False,False,False,Applied
+APP00116,CAND00116,Alpha Tech,Data Analyst,Bengaluru,LinkedIn,2026-08-14 21:00:00,False,False,False,False,False,False,Applied
+APP00944,CAND00944,NextGen Labs,BI Analyst,Delhi,LinkedIn,2026-08-14 23:00:00,False,False,False,False,False,False,Applied
+APP00296,CAND00296,Alpha Tech,Marketing Analyst,Gurugram,Referral,2026-08-15 00:00:00,True,True,True,True,True,True,Hired
